@@ -1,0 +1,684 @@
+kc_id,kc_name,kc_name_es,route_group,route_group_es,route_leaf,route_leaf_es,n_total,accuracy_total,n_first,n_repeat,accuracy_first,accuracy_repeat,delta_repeat_minus_first
+18,长方形和正方形面积公式,Fórmulas de área para rectángulos y cuadrados.,拓展思维,Expande tu pensamiento,长方形和正方形面积公式,Fórmulas de área para rectángulos y cuadrados.,35960,0.832425,30776,5184,0.833247,0.827546,-0.0057
+78,二量容斥,Dos cantidades de tolerancia y rechazo.,拓展思维,Expande tu pensamiento,二量容斥,Dos cantidades de tolerancia y rechazo.,32928,0.812956,32343,585,0.81319,0.8,-0.01319
+55,基本排列的周期问题,Problema básico del período de permutación,拓展思维,Expande tu pensamiento,基本排列的周期问题,Problema básico del período de permutación,28791,0.805182,25295,3496,0.80929,0.775458,-0.033833
+155,树形图,diagrama de arbol,拓展思维,Expande tu pensamiento,树形图,diagrama de arbol,24321,0.722955,24321,0,0.722955,,
+24,整数乘法巧算之提取公因数（普通型）,Extracción de factores comunes para la multiplicación de números enteros (tipo ordinario),拓展思维,Expande tu pensamiento,整数乘法巧算之提取公因数（普通型）,Extracción de factores comunes para la multiplicación de números enteros (tipo ordinario),24094,0.874243,23418,676,0.874712,0.857988,-0.016724
+138,最短路线,ruta más corta,拓展思维,Expande tu pensamiento,最短路线,ruta más corta,21734,0.780114,21720,14,0.780018,0.928571,0.148553
+208,盈亏基本类型盈亏问题,Tipos básicos de pérdidas y ganancias Problemas de pérdidas y ganancias,拓展思维,Expande tu pensamiento,盈亏基本类型盈亏问题,Tipos básicos de problemas de exceso y déficit,21296,0.794421,20673,623,0.795966,0.743178,-0.052788
+257,实心方阵基本问题,Preguntas básicas sobre matriz cuadrada sólida,知识点,Puntos de conocimiento,实心方阵基本问题,Preguntas básicas sobre matriz cuadrada sólida,21141,0.772102,21014,127,0.774531,0.370079,-0.404453
+57,日期中的周期,período en la fecha,拓展思维,Expande tu pensamiento,日期中的周期,período en la fecha,20548,0.752093,18609,1939,0.750981,0.762764,0.011784
+166,两量和倍,Dos cantidades y tiempos,拓展思维,Expande tu pensamiento,两量和倍,Dos cantidades y tiempos,20150,0.794888,15834,4316,0.798345,0.782206,-0.01614
+73,运算求解,solución aritmética,七大能力,Siete habilidades,运算求解,solución aritmética,19379,0.832809,10250,9129,0.808098,0.860554,0.052457
+34,整数好朋友数,Número entero de buenos amigos,拓展思维,Expande tu pensamiento,整数好朋友数,Número entero de buenos amigos,17728,0.830776,17348,380,0.831047,0.818421,-0.012626
+56,单一变量还原问题,problema de reducción de una sola variable,拓展思维,Expande tu pensamiento,单一变量还原问题,problema de reducción de una sola variable,16868,0.801873,16868,0,0.801873,,
+32,等差数列求通项,Hallar el término general de una progresión aritmética,拓展思维,Expande tu pensamiento,等差数列求通项,Encontrar el término general de una secuencia aritmética,15916,0.80328,14946,970,0.801418,0.831959,0.03054
+33,等差数列求和,Suma de secuencia aritmética,拓展思维,Expande tu pensamiento,等差数列求和,Suma de secuencia aritmética,14972,0.785934,14570,402,0.786136,0.778607,-0.007529
+81,原型题,pregunta prototipo,拓展思维,Expande tu pensamiento,原型题,pregunta prototipo,14537,0.81296,14351,186,0.812975,0.811828,-0.001147
+266,除法中四量关系,Relación entre cuatro cantidades en división,拓展思维,Expande tu pensamiento,除法中四量关系,Relación entre cuatro cantidades en división,13516,0.837008,12881,635,0.84318,0.711811,-0.131369
+180,暗差型二量差倍问题,Problema de diferencia de dos cantidades del tipo diferencia oscura,拓展思维,Expande tu pensamiento,暗差型二量差倍问题,Problema de diferencia de dos cantidades del tipo diferencia oscura,12556,0.787671,8577,3979,0.745715,0.87811,0.132395
+183,奇数阶幻方填法,Método de llenado de cuadrados mágicos de orden impar,拓展思维,Expande tu pensamiento,奇数阶幻方填法,Método de llenado de cuadrados mágicos de orden impar,12527,0.785663,12526,1,0.785646,1.0,0.214354
+206,必填符号型,Tipo de símbolo requerido,拓展思维,Expande tu pensamiento,必填符号型,Tipo de símbolo requerido,12095,0.833485,11931,164,0.83195,0.945122,0.113172
+214,加法拆数（应用）,Sumar y dividir números (aplicación),拓展思维,Expande tu pensamiento,加法拆数（应用）,Sumar y dividir números (aplicación),12002,0.708215,11327,675,0.698949,0.863704,0.164754
+179,整数差倍,diferencia entera,拓展思维,Expande tu pensamiento,整数差倍,diferencia entera,11817,0.769908,8553,3264,0.787443,0.723958,-0.063485
+88,平行四边形的面积公式,Fórmula del área del paralelogramo,拓展思维,Expande tu pensamiento,平行四边形的面积公式,Fórmula del área del paralelogramo,11813,0.803522,9390,2423,0.775825,0.910854,0.135029
+108,奇数与偶数的应用,Aplicaciones de números pares e impares,拓展思维,Expande tu pensamiento,奇数与偶数的应用,Aplicaciones de números pares e impares,11684,0.815046,11209,475,0.814792,0.821053,0.006261
+140,巧求周长,Encuentra la circunferencia hábilmente.,拓展思维,Expande tu pensamiento,巧求周长,Encuentra la circunferencia hábilmente.,11608,0.78041,9859,1749,0.776651,0.801601,0.02495
+104,同时出发相向而行,Salgan al mismo tiempo y caminen el uno hacia el otro.,拓展思维,Expande tu pensamiento,同时出发相向而行,Salgan al mismo tiempo y caminen el uno hacia el otro.,11451,0.819928,11433,18,0.81982,0.888889,0.069069
+2,物品搭配,Coincidencia de artículos,拓展思维,Expande tu pensamiento,物品搭配,Coincidencia de artículos,11344,0.915197,9689,1655,0.92476,0.859215,-0.065546
+204,四则混合运算,Cuatro operaciones mixtas,拓展思维,Expande tu pensamiento,四则混合运算,Cuatro operaciones mixtas,11288,0.867824,10246,1042,0.885516,0.693858,-0.191658
+168,多量和倍,Grandes cantidades y tiempos,拓展思维,Expande tu pensamiento,多量和倍,Grandes cantidades y tiempos,11167,0.780872,10098,1069,0.782234,0.768007,-0.014227
+6,几何思想平移,几何思想平移,拓展思维,Expande tu pensamiento,几何思想平移,traducción del pensamiento geométrico,11114,0.736369,9584,1530,0.774311,0.498693,-0.275619
+41,正方形,cuadrado,拓展思维,Expande tu pensamiento,正方形,cuadrado,10818,0.776391,10630,188,0.774412,0.888298,0.113886
+65,双归一问题,Problemas de doble reducción a la unidad,课内题型,Tipos de preguntas en clase,双归一问题,Problema de doble normalización,10788,0.796904,9561,1227,0.788934,0.859006,0.070071
+188,一笔画的应用,Aplicación de un solo golpe,拓展思维,Expande tu pensamiento,一笔画的应用,Aplicación de un solo golpe,10618,0.811452,10441,177,0.817738,0.440678,-0.37706
+109,奇数与偶数的混合计算,Cálculos mixtos de números pares e impares.,拓展思维,Expande tu pensamiento,奇数与偶数的混合计算,Cálculos mixtos de números pares e impares.,10557,0.793218,10557,0,0.793218,,
+198,角度的计算,cálculo de ángulo,拓展思维,Expande tu pensamiento,角度的计算,cálculo de ángulo,10354,0.840834,10342,12,0.841617,0.166667,-0.67495
+177,已知两量之间倍数关系和两量之差，求两个量,"Dada la relación múltiple entre las dos cantidades y la diferencia entre las dos cantidades, encuentre las dos cantidades",课内题型,Tipos de preguntas en clase,已知两量之间倍数关系和两量之差，求两个量,"Dada la relación múltiple entre las dos cantidades y la diferencia entre las dos cantidades, encuentre las dos cantidades",10181,0.811806,7398,2783,0.822655,0.782968,-0.039687
+170,已知两量之间倍数关系和两量之和，求两个量,"Dada la relación múltiple entre las dos cantidades y la suma de las dos cantidades, encuentre las dos cantidades",课内题型,Tipos de preguntas en clase,已知两量之间倍数关系和两量之和，求两个量,"Dada la relación múltiple entre las dos cantidades y la suma de las dos cantidades, encuentre las dos cantidades",9902,0.760452,4558,5344,0.708425,0.804828,0.096403
+106,奇数与偶数的加减规律,Reglas de suma y resta de números pares e impares.,拓展思维,Expande tu pensamiento,奇数与偶数的加减规律,Reglas de suma y resta de números pares e impares.,9892,0.90467,9892,0,0.90467,,
+232,加法竖式谜,Rompecabezas vertical de suma,拓展思维,Expande tu pensamiento,加法竖式谜,Rompecabezas vertical de suma,9744,0.716338,9135,609,0.716366,0.715928,-0.000438
+10,长方形组合图形周长,Perímetro de forma combinada rectangular.,拓展思维,Expande tu pensamiento,长方形组合图形周长,Perímetro de forma combinada rectangular.,9604,0.732924,7477,2127,0.720877,0.77527,0.054393
+14,图形认知,cognición gráfica,能力,capacidad,图形认知,cognición gráfica,9455,0.855632,4394,5061,0.841375,0.86801,0.026636
+102,实践应用,Aplicación práctica,拓展思维,Expande tu pensamiento,单人简单行程问题,Pregunta de itinerario simple para una sola persona.,8961,0.819551,3154,5807,0.77045,0.84622,0.07577
+64,单人简单行程问题,Pregunta de itinerario simple para una sola persona.,拓展思维,Expande tu pensamiento,单人简单行程问题,Pregunta de itinerario simple para una sola persona.,8952,0.887399,8903,49,0.887791,0.816327,-0.071464
+91,两条对角线垂直的四边形的面积求法,Cómo encontrar el área de un cuadrilátero con dos diagonales perpendiculares,拓展思维,Expande tu pensamiento,两条对角线垂直的四边形的面积求法,Cómo encontrar el área de un cuadrilátero con dos diagonales perpendiculares,8753,0.766023,8753,0,0.766023,,
+9,长方形周长,Perímetro del rectángulo,拓展思维,Expande tu pensamiento,长方形周长,Perímetro del rectángulo,8333,0.797792,6813,1520,0.790254,0.831579,0.041325
+222,排队问题,problema de cola,拓展思维,Expande tu pensamiento,排队问题,Problemas de formación en fila,8269,0.837344,8269,0,0.837344,,
+192,角的认知,cognición de ángulos,拓展思维,Expande tu pensamiento,角的认知,cognición de ángulos,8120,0.929926,6643,1477,0.92398,0.956669,0.032689
+213,加法拆数（指定个数）,Sumar y dividir números (número especificado),拓展思维,Expande tu pensamiento,加法拆数（指定个数）,Sumar y dividir números (número especificado),7958,0.669138,6164,1794,0.670182,0.665552,-0.00463
+187,一笔画判断,juicio de un solo golpe,拓展思维,Expande tu pensamiento,一笔画判断,juicio de un solo golpe,7923,0.822416,7923,0,0.822416,,
+336,变型题,Preguntas de variación,拓展思维,Expande tu pensamiento,变型题,Preguntas de variación,7708,0.76985,6909,799,0.770444,0.764706,-0.005738
+260,空心方阵基本问题,Preguntas básicas sobre la matriz de cuadrados huecos,知识点,Puntos de conocimiento,空心方阵基本问题,Preguntas básicas sobre la matriz de cuadrados huecos,7636,0.781561,7174,462,0.782687,0.764069,-0.018618
+162,整数除法巧算之类分配律,Leyes distributivas como la división de enteros y cálculos inteligentes,拓展思维,Expande tu pensamiento,整数除法巧算之类分配律,Leyes distributivas como la división de enteros y cálculos inteligentes,7528,0.759431,7438,90,0.759747,0.733333,-0.026414
+263,单循环赛,todos contra todos,拓展思维,Expande tu pensamiento,单循环赛,todos contra todos,7512,0.819489,4773,2739,0.804944,0.844834,0.039889
+157,环形操作周期问题,Problemas del ciclo operativo circular,拓展思维,Expande tu pensamiento,环形操作周期问题,Problemas del ciclo operativo circular,7341,0.725514,7341,0,0.725514,,
+200,年龄问题基本关系和差问题,Problema básico de relación y diferencia del problema de edad.,拓展思维,Expande tu pensamiento,年龄问题基本关系和差问题,Problema básico de relación y diferencia del problema de edad.,7267,0.85042,6540,727,0.85,0.854195,0.004195
+139,正方形周长,perímetro del cuadrado,拓展思维,Expande tu pensamiento,正方形周长,perímetro del cuadrado,7116,0.843873,3587,3529,0.859771,0.827713,-0.032058
+123,连续自然数长方形数表之已知位置求数,Cálculo de posiciones conocidas en una tabla numérica rectangular de números naturales continuos.,拓展思维,Expande tu pensamiento,连续自然数长方形数表之已知位置求数,Cálculo de posiciones conocidas en una tabla numérica rectangular de números naturales continuos.,7084,0.741813,7084,0,0.741813,,
+23,整数倍数关系,Relación de múltiplos enteros,拓展思维,Expande tu pensamiento,整数倍数关系,Relación de múltiplos enteros,7053,0.850702,7053,0,0.850702,,
+252,等差数列求项数,Encuentra el número de términos en una secuencia aritmética.,知识点,Puntos de conocimiento,等差数列求项数,Encuentra el número de términos en una secuencia aritmética.,6936,0.775952,5222,1714,0.755841,0.837223,0.081382
+220,加减法凑整综合,"Suma, resta, redondeo y síntesis.",拓展思维,Expande tu pensamiento,加减法凑整综合,"Suma, resta, redondeo y síntesis.",6929,0.854957,4665,2264,0.838371,0.889134,0.050763
+165,公式法求长方形正方形面积,Calcular el área de un rectángulo y un cuadrado usando el método de fórmula.,拓展思维,Expande tu pensamiento,长方形和正方形面积公式,Fórmulas de área para rectángulos y cuadrados.,6690,0.804185,459,6231,0.908497,0.796501,-0.111995
+172,非整数倍差倍剩余,Diferencia múltiplo no entera restante,拓展思维,Expande tu pensamiento,非整数倍差倍剩余,Diferencia múltiplo no entera restante,6630,0.714329,6630,0,0.714329,,
+76,条形统计图,gráfico de barras,知识点,Puntos de conocimiento,条形统计图,gráfico de barras,6554,0.868935,6554,0,0.868935,,
+67,三角形,triángulo,拓展思维,Expande tu pensamiento,三角形,triángulo,6442,0.832195,5700,742,0.824912,0.88814,0.063228
+58,逆运算,operación inversa,拓展思维,Expande tu pensamiento,逆运算,operación inversa,6415,0.809977,6415,0,0.809977,,
+77,简单统计表,tabla estadistica sencilla,拓展思维,Expande tu pensamiento,简单统计表,tabla estadistica sencilla,6290,0.814785,6117,173,0.824914,0.456647,-0.368267
+5,路线搭配问题,Problema de coincidencia de rutas,拓展思维,Expande tu pensamiento,路线搭配问题,Problemas de combinación de rutas,6277,0.890712,4089,2188,0.924921,0.826782,-0.098138
+335,多笔画运用,Usa múltiples trazos,拓展思维,Expande tu pensamiento,多笔画运用,Usa múltiples trazos,6229,0.757907,6229,0,0.757907,,
+448,四边形的认识,Comprensión de los cuadriláteros,拓展思维,Expande tu pensamiento,四边形的认识,Comprensión de los cuadriláteros,5916,0.843813,3111,2805,0.77017,0.92549,0.15532
+272,归总问题,Resumiendo el problema,拓展思维,Expande tu pensamiento,归总问题,Resumiendo el problema,5892,0.814664,5889,3,0.814739,0.666667,-0.148073
+359,找暗和,encontrar anhe,拓展思维,Expande tu pensamiento,找暗和,encontrar anhe,5695,0.810009,5657,38,0.809086,0.947368,0.138282
+330,幻方数字关系,relación de números cuadrados mágicos,拓展思维,Expande tu pensamiento,幻方数字关系,relación de números cuadrados mágicos,5638,0.784143,5565,73,0.78221,0.931507,0.149297
+379,给运算方法和结果，求开始,"Dado el método de operación y el resultado, encuentre el inicio.",课内题型,Tipos de preguntas en clase,给运算方法和结果，求开始,"Dado el método de operación y el resultado, encuentre el inicio.",5621,0.871375,5383,238,0.872933,0.836134,-0.036799
+203,年龄问题之和倍型,Tipo de ploidía de suma del problema de edad,拓展思维,Expande tu pensamiento,年龄问题之和倍型,Tipo de ploidía de suma del problema de edad,5604,0.785153,5304,300,0.790913,0.683333,-0.107579
+62,单归一问题,Problema de normalización única,课内题型,Tipos de preguntas en clase,单归一问题,Problema de normalización única,5565,0.820126,5338,227,0.822967,0.753304,-0.069663
+164,整数乘除法巧算,Cálculos de multiplicación y división de números enteros.,拓展思维,Expande tu pensamiento,整数乘除法巧算,Cálculos de multiplicación y división de números enteros.,5558,0.839331,4971,587,0.833233,0.890971,0.057738
+66,长方形周长公式,Fórmula del perímetro del rectángulo,课内知识点,Puntos de conocimiento en clase,长方形周长公式,Fórmula del perímetro del rectángulo,5499,0.84088,5275,224,0.848152,0.669643,-0.178509
+261,空心方阵的增减,Aumento o disminución de matriz de cuadrados huecos.,拓展思维,Expande tu pensamiento,空心方阵的增减,Aumento o disminución de matriz de cuadrados huecos.,5358,0.736842,4776,582,0.795436,0.256014,-0.539422
+147,先归一再归总,Reúnelo todo primero y luego resúmelo de nuevo.,拓展思维,Expande tu pensamiento,先归一再归总,Reúnelo todo primero y luego resúmelo de nuevo.,5296,0.781156,3921,1375,0.806172,0.709818,-0.096354
+124,连续自然数长方形数表之已知数求位置,Encuentra la posición de los números conocidos en la tabla numérica rectangular de números naturales continuos.,拓展思维,Expande tu pensamiento,连续自然数长方形数表之已知位置求数,Cálculo de posiciones conocidas en una tabla numérica rectangular de números naturales continuos.,5080,0.726969,1016,4064,0.740157,0.723671,-0.016486
+112,乘法竖式谜,Rompecabezas vertical de multiplicación,拓展思维,Expande tu pensamiento,乘法竖式谜,Rompecabezas vertical de multiplicación,5012,0.77075,5012,0,0.77075,,
+135,整数系数方程,Ecuación de coeficiente entero,拓展思维,Expande tu pensamiento,整数系数方程,Ecuación de coeficiente entero,5008,0.792732,5008,0,0.792732,,
+142,数字组数（不可重复）,Número de grupos numéricos (no repetibles),拓展思维,Expande tu pensamiento,数字组数（不可重复）,Número de grupos numéricos (no repetibles),4987,0.749348,4895,92,0.745863,0.934783,0.188919
+258,实心方阵的增减,Aumento y disminución de matriz cuadrada sólida.,拓展思维,Expande tu pensamiento,实心方阵的增减,Aumento y disminución de matriz cuadrada sólida.,4946,0.736959,4946,0,0.736959,,
+223,加法原理里的其他类型,Otros tipos en el principio de suma.,拓展思维,Expande tu pensamiento,加法原理里的其他类型,Otros tipos en el principio de suma.,4852,0.911377,4781,71,0.915081,0.661972,-0.253109
+227,公式法求平行四边形面积,Encuentra el área de un paralelogramo usando el método de la fórmula.,拓展思维,Expande tu pensamiento,平行四边形的面积公式,Fórmula del área del paralelogramo,4847,0.896637,4308,539,0.910631,0.784787,-0.125845
+132,年龄问题之差倍型,Tipo de ploidía de diferencia de edad,拓展思维,Expande tu pensamiento,年龄问题之差倍型,Tipo de ploidía de diferencia de edad,4808,0.726913,4806,2,0.727008,0.5,-0.227008
+212,亏亏问题,problema de perdida,拓展思维,Expande tu pensamiento,亏亏问题,problema de perdida,4796,0.7696,4796,0,0.7696,,
+35,中项定理应用,Aplicación del teorema del término medio,拓展思维,Expande tu pensamiento,中项定理应用,Aplicación del teorema del término medio,4779,0.796192,4706,73,0.797493,0.712329,-0.085164
+237,拆数法构造分配律,Construyendo la ley distributiva mediante el método de división de números,拓展思维,Expande tu pensamiento,拆数法构造分配律,Método de descomposición de números para construir la propiedad distributiva,4759,0.791973,4331,428,0.785038,0.86215,0.077111
+30,除法竖式,Forma vertical de división,拓展思维,Expande tu pensamiento,除法竖式,Forma vertical de división,4698,0.826522,4682,16,0.828279,0.3125,-0.515779
+11,公式法长方形正方形周长,Método de fórmula del perímetro del cuadrado del rectángulo.,课内题型,Tipos de preguntas en clase,公式法长方形正方形周长,Método de fórmula del perímetro del cuadrado del rectángulo.,4652,0.812554,2810,1842,0.792527,0.843105,0.050579
+121,特殊乘积,producto especial,拓展思维,Expande tu pensamiento,特殊乘积,producto especial,4564,0.824715,3926,638,0.825777,0.818182,-0.007595
+16,分割图形（不需等分）,Divide el gráfico (no es necesario dividirlo en partes iguales),知识点,Puntos de conocimiento,分割图形（不需等分）,Divide el gráfico (no es necesario dividirlo en partes iguales),4493,0.756955,3499,994,0.749929,0.78169,0.031762
+169,除法的实际应用,Aplicaciones prácticas de la división,课内题型,Tipos de preguntas en clase,已知两量之间倍数关系和两量之差，求两个量,"Dada la relación múltiple entre las dos cantidades y la diferencia entre las dos cantidades, encuentre las dos cantidades",4457,0.797397,4202,255,0.798667,0.776471,-0.022197
+207,24点游戏,juego de veintiuna,拓展思维,Expande tu pensamiento,24点游戏,juego de veintiuna,4453,0.865259,4453,0,0.865259,,
+340,小数的认识,Comprensión de los decimales.,拓展思维,Expande tu pensamiento,小数的认识,Comprensión de los decimales.,4448,0.926484,3330,1118,0.922823,0.937388,0.014565
+231,减法竖式谜,Rompecabezas vertical de resta,拓展思维,Expande tu pensamiento,减法竖式谜,Rompecabezas vertical de resta,4407,0.777853,4037,370,0.762943,0.940541,0.177598
+37,等差数列求公差,Encontrar la tolerancia de una secuencia aritmética,知识点,Puntos de conocimiento,等差数列求公差,Encontrar la tolerancia de una secuencia aritmética,4399,0.795181,4399,0,0.795181,,
+236,整数四则混合运算,Cuatro operaciones aritméticas mixtas con números enteros,课内知识点,Puntos de conocimiento en clase,整数四则混合运算,Cuatro operaciones aritméticas mixtas con números enteros,4321,0.738718,4321,0,0.738718,,
+43,认识线段,Reconocer segmentos de línea,拓展思维,Expande tu pensamiento,认识线段,Reconocer segmentos de línea,4253,0.781566,4158,95,0.777778,0.947368,0.169591
+301,有序枚举,enumeración ordenada,拓展思维,Expande tu pensamiento,有序枚举,enumeración ordenada,4202,0.916468,4036,166,0.92443,0.722892,-0.201539
+7,陷阱型不规则图形求周长,Calcular el perímetro de una figura irregular en forma de trampa,拓展思维,Expande tu pensamiento,陷阱型不规则图形求周长,Calcular el perímetro de una figura irregular en forma de trampa,4186,0.803631,4183,3,0.803968,0.333333,-0.470635
+36,乘除法抵消,Cancelación de multiplicación y división.,拓展思维,Expande tu pensamiento,乘除法抵消,Cancelación de multiplicación y división.,4183,0.796079,4183,0,0.796079,,
+229,火柴棒摆数,Número de cerillas,拓展思维,Expande tu pensamiento,火柴棒摆数,Número de cerillas,4129,0.548559,4111,18,0.549745,0.277778,-0.271967
+313,一般组数问题,Problema general de número de grupo,知识点,Puntos de conocimiento,一般组数问题,Problema general de número de grupo,4125,0.658424,2783,1342,0.66475,0.645306,-0.019445
+161,整数乘法巧算之分配律,La ley distributiva de la multiplicación de números enteros.,拓展思维,Expande tu pensamiento,整数乘法巧算之分配律,La ley distributiva de la multiplicación de números enteros.,4121,0.654695,4121,0,0.654695,,
+241,长方形,rectángulo,拓展思维,Expande tu pensamiento,长方形,rectángulo,4064,0.77313,3900,164,0.773333,0.768293,-0.005041
+3,染色计数问题,problema de conteo de tintes,拓展思维,Expande tu pensamiento,染色计数问题,problema de conteo de tintes,4062,0.72452,4056,6,0.724112,1.0,0.275888
+402,直线和交点,Líneas e intersecciones,拓展思维,Expande tu pensamiento,直线和交点,Líneas e intersecciones,4031,0.695857,4031,0,0.695857,,
+114,整除初识,primer conocido,拓展思维,Expande tu pensamiento,整除初识,primer conocido,3987,0.742162,2645,1342,0.756144,0.714605,-0.041539
+468,倒扣型,Tipo de socavado,拓展思维,Expande tu pensamiento,倒扣型,Tipo de socavado,3978,0.776521,3978,0,0.776521,,
+307,周期问题,problema de ciclo,拓展思维,Expande tu pensamiento,基本排列的周期问题,Problema básico del período de permutación,3962,0.796567,3800,162,0.790263,0.944444,0.154181
+148,直接求平均数,Encuentra el promedio directamente,拓展思维,Expande tu pensamiento,直接求平均数,Encuentra el promedio directamente,3946,0.798784,3927,19,0.799593,0.631579,-0.168014
+99,同时出发,Salir al mismo tiempo,拓展思维,Expande tu pensamiento,同时出发,Salir al mismo tiempo,3944,0.782961,3847,97,0.781908,0.824742,0.042834
+209,特殊点或区域,punto o área especial,拓展思维,Expande tu pensamiento,特殊点或区域,punto o área especial,3834,0.726135,3204,630,0.742509,0.642857,-0.099652
+205,添去括号,Agregar y quitar corchetes,拓展思维,Expande tu pensamiento,添去括号,Agregar y quitar corchetes,3777,0.864707,311,3466,0.665595,0.882574,0.216979
+131,整数简易方程,Ecuaciones enteras simples,课内知识点,Puntos de conocimiento en clase,整数简易方程,Ecuaciones enteras simples,3719,0.836784,3719,0,0.836784,,
+167,两量倍,el doble de la cantidad,课内题型,Tipos de preguntas en clase,两量倍,el doble de la cantidad,3685,0.7981,2978,707,0.763264,0.944837,0.181573
+363,带余除法,División con resto,拓展思维,Expande tu pensamiento,带余除法,División con resto,3684,0.883008,2452,1232,0.904976,0.839286,-0.06569
+176,变化的比多少应用题,¿Cuánto cambia la relación? preguntas de palabras,拓展思维,Expande tu pensamiento,变化的比多少应用题,¿Cuánto cambia la relación? preguntas de palabras,3672,0.682734,3672,0,0.682734,,
+12,几何方法整体减空白,Método geométrico para reducir el espacio en blanco general,拓展思维,Expande tu pensamiento,几何方法整体减空白,Método geométrico para reducir el espacio en blanco general,3633,0.692265,1753,1880,0.720479,0.665957,-0.054522
+248,整数乘除混合运算,Operaciones mixtas de multiplicación y división de números enteros.,拓展思维,Expande tu pensamiento,整数乘除混合运算,Operaciones mixtas de multiplicación y división de números enteros.,3537,0.872208,2533,1004,0.851954,0.923307,0.071353
+127,时间总和问题,problema de suma de tiempo,拓展思维,Expande tu pensamiento,时间总和问题,problema de suma de tiempo,3499,0.745642,3499,0,0.745642,,
+343,数、数位、数字的认识,"Conciencia de números, dígitos y números.",拓展思维,Expande tu pensamiento,数、数位、数字的认识,"Conciencia de números, dígitos y números.",3483,0.766868,3483,0,0.766868,,
+349,字母表示数,las letras representan números,课内知识点,Puntos de conocimiento en clase,字母表示数,las letras representan números,3449,0.882865,2875,574,0.876174,0.916376,0.040202
+39,扫雷游戏,juego buscaminas,拓展思维,Expande tu pensamiento,扫雷游戏,juego buscaminas,3414,0.785589,3414,0,0.785589,,
+235,乘法结合律,ley asociativa multiplicativa,课内知识点,Puntos de conocimiento en clase,乘法交换律,ley conmutativa de la multiplicación,3385,0.841359,0,3385,,0.841359,
+352,盈盈问题,Problema de Ying-Ying,拓展思维,Expande tu pensamiento,盈盈问题,Problema de Ying-Ying,3294,0.803886,3294,0,0.803886,,
+69,数的周期,período numérico,拓展思维,Expande tu pensamiento,数的周期,período numérico,3289,0.784737,3183,106,0.781653,0.877358,0.095706
+378,因数与倍数基础,Conceptos básicos de factores y múltiplos,拓展思维,Expande tu pensamiento,因数与倍数基础,Conceptos básicos de factores y múltiplos,3283,0.857447,3283,0,0.857447,,
+471,路线遍历,recorrido de ruta,拓展思维,Expande tu pensamiento,路线遍历,recorrido de ruta,3210,0.861994,3181,29,0.86105,0.965517,0.104467
+46,两端植树类型问题(段数大于10),Problemas con los tipos de plantación de árboles en ambos extremos (el número de segmentos es mayor a 10),拓展思维,Expande tu pensamiento,两端植树类型问题(段数大于10),Problemas con los tipos de plantación de árboles en ambos extremos (el número de segmentos es mayor a 10),3210,0.680685,2101,1109,0.603046,0.827773,0.224727
+243,物品搭配（有特殊要求）,Coincidencia de artículos (con requisitos especiales),知识点,Puntos de conocimiento,物品搭配（有特殊要求）,Coincidencia de artículos (con requisitos especiales),3103,0.846278,2989,114,0.845099,0.877193,0.032094
+303,排列组合,Permutación y combinación,课内知识点,Puntos de conocimiento en clase,排列组合,Permutación y combinación,3100,0.582258,3045,55,0.575369,0.963636,0.388267
+134,一元一次方程解应用题,Resolver problemas verbales de ecuaciones lineales de una variable.,拓展思维,Expande tu pensamiento,一元一次方程解应用题,Resolver problemas verbales de ecuaciones lineales de una variable.,3081,0.741642,2487,594,0.73261,0.779461,0.046852
+225,平行四边形面积公式,Fórmula del área del paralelogramo,课内知识点,Puntos de conocimiento en clase,平行四边形面积公式,Fórmula del área del paralelogramo,3070,0.762215,2286,784,0.809274,0.625,-0.184274
+160,奇数与偶数的乘法规律,Reglas de multiplicación para números pares e impares.,拓展思维,Expande tu pensamiento,奇数与偶数的乘法规律,Reglas de multiplicación para números pares e impares.,3061,0.86475,3061,0,0.86475,,
+119,表外乘法计算,Cálculo de multiplicación fuera de la tabla,拓展思维,Expande tu pensamiento,表外乘法计算,Cálculo de multiplicación fuera de la tabla,3023,0.799868,3018,5,0.799536,1.0,0.200464
+146,乘法竖式,expresión vertical de multiplicación,拓展思维,Expande tu pensamiento,乘法竖式,expresión vertical de multiplicación,3022,0.780609,2949,73,0.781621,0.739726,-0.041895
+311,两端植树类型问题(段数小于等于10),Problemas con la plantación de árboles en ambos extremos (número de segmentos menor o igual a 10),拓展思维,Expande tu pensamiento,两端植树类型问题(段数小于等于10),Problemas con la plantación de árboles en ambos extremos (número de segmentos menor o igual a 10),3012,0.783533,3001,11,0.784738,0.454545,-0.330193
+240,年龄轴,eje de edad,拓展思维,Expande tu pensamiento,年龄轴,eje de edad,3009,0.768029,2969,40,0.768272,0.75,-0.018272
+59,多量还原问题,Problema de restauración masiva,拓展思维,Expande tu pensamiento,多量还原问题,Problema de restauración masiva,3001,0.815062,3001,0,0.815062,,
+38,整数除法巧算之提取公除数（普通型）,Cálculo inteligente de división de enteros para extraer el divisor común (tipo ordinario),拓展思维,Expande tu pensamiento,整数除法巧算之提取公除数（普通型）,Cálculo inteligente de división de enteros para extraer el divisor común (tipo ordinario),2989,0.857477,2838,151,0.863636,0.741722,-0.121915
+193,多位小数的写法,Cómo escribir varios decimales,知识点,Puntos de conocimiento,多位小数的写法,Cómo escribir varios decimales,2981,0.913787,2981,0,0.913787,,
+362,三角形面积,area del triangulo,拓展思维,Expande tu pensamiento,三角形面积,area del triangulo,2954,0.857481,769,2185,0.908973,0.839359,-0.069613
+365,周长定义,definición de perímetro,课内知识点,Puntos de conocimiento en clase,周长定义,definición de perímetro,2953,0.838469,2151,802,0.896792,0.682045,-0.214747
+262,淘汰赛,ronda eliminatoria,拓展思维,Expande tu pensamiento,单循环赛,todos contra todos,2937,0.866871,2937,0,0.866871,,
+199,利用特殊角的求角度,Usar ángulos especiales para encontrar ángulos,拓展思维,Expande tu pensamiento,利用特殊角的求角度,Usar ángulos especiales para encontrar ángulos,2905,0.840275,1266,1639,0.844392,0.837096,-0.007296
+189,不等变相等（无图）,Lo desigual se vuelve igual (sin imagen),拓展思维,Expande tu pensamiento,不等变相等（无图）,Lo desigual se vuelve igual (sin imagen),2901,0.909342,2648,253,0.912764,0.873518,-0.039247
+234,整数乘法运算,multiplicación de enteros,课内知识点,Puntos de conocimiento en clase,乘法交换律,ley conmutativa de la multiplicación,2865,0.828621,0,2865,,0.828621,
+239,年龄差,diferencia de edad,拓展思维,Expande tu pensamiento,年龄差,diferencia de edad,2861,0.850751,2222,639,0.850585,0.85133,0.000745
+144,卡片组数,Número de barajas de cartas,拓展思维,Expande tu pensamiento,卡片组数,Número de barajas de cartas,2856,0.704132,2704,152,0.703772,0.710526,0.006754
+82,三量容斥,Tres cantidades de tolerancia y rechazo.,拓展思维,Expande tu pensamiento,三量容斥,Tres cantidades de tolerancia y rechazo.,2828,0.739392,2662,166,0.742299,0.692771,-0.049528
+175,和差倍问题,problema de diferencia de suma,拓展思维,Expande tu pensamiento,多量差倍,Gran diferencia de cantidad,2820,0.853901,335,2485,0.901493,0.847485,-0.054008
+86,页码数量,Número de páginas,拓展思维,Expande tu pensamiento,页码数量,Número de páginas,2798,0.713367,2638,160,0.71304,0.71875,0.00571
+233,乘法交换律,ley conmutativa de la multiplicación,课内知识点,Puntos de conocimiento en clase,乘法交换律,ley conmutativa de la multiplicación,2767,0.846765,2767,0,0.846765,,
+145,图文加法竖式数字谜,Rompecabezas numérico vertical de suma de imágenes y texto,拓展思维,Expande tu pensamiento,图文加法竖式数字谜,Rompecabezas numérico vertical de suma de imágenes y texto,2763,0.671734,2763,0,0.671734,,
+174,多量差倍,Gran diferencia de cantidad,拓展思维,Expande tu pensamiento,多量差倍,Gran diferencia de cantidad,2747,0.825264,2747,0,0.825264,,
+271,时间中的周期问题,El problema de los ciclos en el tiempo.,拓展思维,Expande tu pensamiento,时间中的周期问题,El problema de los ciclos en el tiempo.,2738,0.84843,2738,0,0.84843,,
+238,不等变不等（给完还多）,Ninguna espera se convierte en espera (se dará más después de dar),拓展思维,Expande tu pensamiento,不等变不等（给完还多）,Ninguna espera se convierte en espera (se dará más después de dar),2728,0.731672,2728,0,0.731672,,
+154,分数的意义,El significado de las fracciones.,拓展思维,Expande tu pensamiento,分数的意义,El significado de las fracciones.,2670,0.828464,2670,0,0.828464,,
+264,2-1-0 积分制,Sistema de puntos 2-1-0,拓展思维,Expande tu pensamiento,2-1-0 积分制,Sistema de puntos 2-1-0,2656,0.757154,2656,0,0.757154,,
+413,运算律,leyes operativas,知识点,Puntos de conocimiento,运算律,leyes operativas,2641,0.774707,1794,847,0.763657,0.798111,0.034454
+221,明和明差,luz y contraste,拓展思维,Expande tu pensamiento,明和明差,luz y contraste,2568,0.739486,2056,512,0.763132,0.644531,-0.118601
+101,不同时出发相向而行,No empezar al mismo tiempo y dirigirse uno hacia el otro.,拓展思维,Expande tu pensamiento,不同时出发相向而行,No empezar al mismo tiempo y dirigirse uno hacia el otro.,2563,0.712837,2563,0,0.712837,,
+202,年龄和,edad y,拓展思维,Expande tu pensamiento,年龄和,edad y,2559,0.867136,2559,0,0.867136,,
+68,逻辑绘图,dibujo lógico,拓展思维,Expande tu pensamiento,逻辑绘图,dibujo lógico,2554,0.957713,2554,0,0.957713,,
+182,计算星期几,Calcular el día de la semana.,知识点,Puntos de conocimiento,计算星期几,Calcular el día de la semana.,2545,0.736346,2383,162,0.733949,0.771605,0.037656
+194,多位小数比较大小,Comparar tamaños con varios decimales,课内知识点,Puntos de conocimiento en clase,多位小数比较大小,Comparar tamaños con varios decimales,2545,0.823969,2545,0,0.823969,,
+133,代数式,expresión algebraica,拓展思维,Expande tu pensamiento,代数式,expresión algebraica,2537,0.777296,2395,142,0.777035,0.78169,0.004655
+242,综合型转化,Transformación integral,拓展思维,Expande tu pensamiento,综合型转化,Transformación integral,2533,0.671536,2246,287,0.635797,0.95122,0.315423
+389,整数基准数法,método del número base entero,拓展思维,Expande tu pensamiento,整数基准数法,método del número base entero,2531,0.839194,2138,393,0.86015,0.725191,-0.134959
+117,奇数与偶数的认识,Comprender los números pares e impares,拓展思维,Expande tu pensamiento,奇数与偶数的认识,Comprender los números pares e impares,2438,0.804758,1810,628,0.831492,0.727707,-0.103785
+253,等差数列实际应用,Aplicaciones prácticas de secuencias aritméticas.,拓展思维,Expande tu pensamiento,等差数列实际应用,Aplicaciones prácticas de secuencias aritméticas.,2405,0.80499,2405,0,0.80499,,
+173,非整数倍差倍不足,La diferencia de tiempos no enteros es insuficiente,拓展思维,Expande tu pensamiento,非整数倍差倍不足,La diferencia de tiempos no enteros es insuficiente,2403,0.705784,1519,884,0.782093,0.574661,-0.207433
+61,两量还原问题,Problema de restauración de dos cantidades.,拓展思维,Expande tu pensamiento,两量还原问题,Problema de restauración de dos cantidades.,2395,0.760334,2331,64,0.758473,0.828125,0.069652
+25,直接运用分配律,Aplicar la ley distributiva directamente.,拓展思维,Expande tu pensamiento,直接运用分配律,Aplicar la ley distributiva directamente.,2386,0.737636,2161,225,0.734382,0.768889,0.034507
+392,组合数,número de combinaciones,知识点,Puntos de conocimiento,组合数,número de combinaciones,2375,0.952421,1437,938,0.93389,0.98081,0.04692
+87,平行四边形的概念,El concepto de paralelogramo.,拓展思维,Expande tu pensamiento,平行四边形的概念,El concepto de paralelogramo.,2357,0.723377,2169,188,0.704933,0.93617,0.231237
+26,整数提取公因数,Extraer factores comunes de números enteros.,拓展思维,Expande tu pensamiento,整数提取公因数,Extraer factores comunes de números enteros.,2328,0.791237,2048,280,0.76709,0.967857,0.200767
+265,多量和差问题,Problema de grandes cantidades y diferencias.,拓展思维,Expande tu pensamiento,多量和差问题,Problema de grandes cantidades y diferencias.,2322,0.866064,2322,0,0.866064,,
+249,普通型,tipo ordinario,知识点,Puntos de conocimiento,普通型,tipo ordinario,2275,0.771868,2275,0,0.771868,,
+447,平行四边形面积,área del paralelogramo,课内知识点,Puntos de conocimiento en clase,平行四边形面积,área del paralelogramo,2254,0.959627,2254,0,0.959627,,
+244,乘法原理,principio de multiplicación,拓展思维,Expande tu pensamiento,乘法原理,principio de multiplicación,2244,0.837344,1929,315,0.822188,0.930159,0.107971
+361,公式法求三角形面积,Encuentra el área de un triángulo usando el método de la fórmula.,拓展思维,Expande tu pensamiento,三角形面积,area del triangulo,2233,0.840573,2233,0,0.840573,,
+366,已知边长求周长,Calcula el perímetro si se conoce la longitud del lado.,课内知识点,Puntos de conocimiento en clase,已知边长求周长,Calcula el perímetro si se conoce la longitud del lado.,2232,0.974462,2232,0,0.974462,,
+367,有特殊要求的组数问题,Problemas con la cantidad de grupos con requisitos especiales,知识点,Puntos de conocimiento,有特殊要求的组数问题,Problemas con la cantidad de grupos con requisitos especiales,2224,0.656475,1692,532,0.653664,0.665414,0.011749
+480,小马虎题型,Tipo de pregunta descuidada,拓展思维,Expande tu pensamiento,小马虎题型,Tipo de pregunta descuidada,2219,0.650293,1751,468,0.675614,0.555556,-0.120058
+374,多笔画变一笔画,Múltiples trazos se convierten en un solo trazo,拓展思维,Expande tu pensamiento,多笔画变一笔画,Múltiples trazos se convierten en un solo trazo,2212,0.687161,2074,138,0.674542,0.876812,0.20227
+277,公式法,método de fórmula,拓展思维,Expande tu pensamiento,公式法,método de fórmula,2188,0.834095,1909,279,0.812467,0.982079,0.169612
+20,找矛盾,encontrar contradicciones,拓展思维,Expande tu pensamiento,找矛盾,encontrar contradicciones,2187,0.727938,2187,0,0.727938,,
+17,正方形组合图形周长,Perímetro de la figura combinada cuadrada.,课内题型,Tipos de preguntas en clase,公式法长方形正方形周长,Método de fórmula del perímetro del cuadrado del rectángulo.,2154,0.842618,143,2011,0.664336,0.855296,0.19096
+211,恰好分完,Acabo de terminar de dividir,拓展思维,Expande tu pensamiento,盈亏问题,Problemas de pérdidas y ganancias,2114,0.874172,931,1183,0.817401,0.91885,0.10145
+373,公式求长方形面积,Fórmula para encontrar el área de un rectángulo,知识点,Puntos de conocimiento,公式求长方形面积,Fórmula para encontrar el área de un rectángulo,2097,0.854554,1055,1042,0.872038,0.836852,-0.035186
+329,求某日期是周几问题,Encuentra el día de la semana para una fecha determinada.,拓展思维,Expande tu pensamiento,日期中的周期,período en la fecha,2093,0.795509,2093,0,0.795509,,
+401,明和暗差,diferencia entre luz y oscuridad,拓展思维,Expande tu pensamiento,明和暗差,diferencia entre luz y oscuridad,2091,0.706361,2091,0,0.706361,,
+128,调运中的统筹,Coordinación en transporte.,拓展思维,Expande tu pensamiento,调运中的统筹,Coordinación en transporte.,2081,0.648246,2081,0,0.648246,,
+40,长方形计数,Recuento de rectángulos,拓展思维,Expande tu pensamiento,长方形计数,Recuento de rectángulos,2079,0.751804,2079,0,0.751804,,
+149,综合题普通型,Tipo general de preguntas integrales.,拓展思维,Expande tu pensamiento,综合题普通型,Tipo general de preguntas integrales.,2055,0.73528,2030,25,0.734975,0.76,0.025025
+44,线段计数,Recuento de segmentos de línea,拓展思维,Expande tu pensamiento,线段计数,Recuento de segmentos de línea,2027,0.76221,1941,86,0.759918,0.813953,0.054036
+118,除法竖式谜,rompecabezas de división,拓展思维,Expande tu pensamiento,除法竖式谜,rompecabezas de división,2025,0.681481,2025,0,0.681481,,
+184,长方形数表中日期周期,Período de fecha en tabla numérica rectangular,课内题型,Tipos de preguntas en clase,长方形数表中日期周期,Período de fecha en tabla numérica rectangular,2013,0.776453,2013,0,0.776453,,
+150,加权平均数,promedio ponderado,拓展思维,Expande tu pensamiento,加权平均数,promedio ponderado,2006,0.609172,2006,0,0.609172,,
+1,加乘原理综合,Principio integral de suma y multiplicación.,拓展思维,Expande tu pensamiento,加乘原理综合,Principio integral de suma y multiplicación.,1972,0.76927,1972,0,0.76927,,
+181,区分大月和小月,Distinguir entre luna grande y luna pequeña,知识点,Puntos de conocimiento,区分大月和小月,Distinguir entre luna grande y luna pequeña,1937,0.620031,1868,69,0.622591,0.550725,-0.071866
+408,对象转化为物品,Objeto convertido en artículo,拓展思维,Expande tu pensamiento,对象转化为物品,Objeto convertido en artículo,1928,0.533195,1717,211,0.511357,0.7109,0.199543
+228,上升数（下降数）,Números ascendentes y descendentes,拓展思维,Expande tu pensamiento,上升数（下降数）,número ascendente (número descendente),1919,0.632621,1919,0,0.632621,,
+0,乘法原理里的其他类型,Otros tipos en el principio de multiplicación.,拓展思维,Expande tu pensamiento,乘法原理里的其他类型,Otros tipos en el principio de multiplicación.,1912,0.718096,1912,0,0.718096,,
+152,分数加减,Sumar y restar fracciones,拓展思维,Expande tu pensamiento,分数加减,Sumar y restar fracciones,1908,0.755765,1764,144,0.748866,0.840278,0.091412
+178,减法的实际应用,Aplicaciones prácticas de la resta.,课内题型,Tipos de preguntas en clase,已知两量之间倍数关系和两量之差，求两个量,"Dada la relación múltiple entre las dos cantidades y la diferencia entre las dos cantidades, encuentre las dos cantidades",1903,0.785602,0,1903,,0.785602,
+195,小数加减竖式计算,Cálculos verticales de suma y resta decimales,拓展思维,Expande tu pensamiento,小数加减竖式计算,Cálculos verticales de suma y resta decimales,1874,0.968517,1874,0,0.968517,,
+546,三角形计数,recuento de triángulos,拓展思维,Expande tu pensamiento,三角形计数,recuento de triángulos,1872,0.656517,1823,49,0.651125,0.857143,0.206018
+217,拆数数字可重复,Los dígitos se pueden repetir,拓展思维,Expande tu pensamiento,加法拆数（指定个数）,Sumar y dividir números (número especificado),1871,0.683057,661,1210,0.526475,0.768595,0.24212
+92,梯形的面积公式,Fórmula del área del trapecio,拓展思维,Expande tu pensamiento,梯形的面积公式,Fórmula del área del trapecio,1834,0.812977,1543,291,0.821128,0.769759,-0.051368
+163,商不变性质,propiedad invariante del cociente,课内知识点,Puntos de conocimiento en clase,商不变性质,propiedad invariante del cociente,1822,0.560922,1671,151,0.540395,0.788079,0.247684
+98,梯形面积公式,Fórmula del área trapezoidal,拓展思维,Expande tu pensamiento,四边形的认识,Comprensión de los cuadriláteros,1822,0.779912,385,1437,0.794805,0.775922,-0.018883
+218,排列数,número de permutaciones,知识点,Puntos de conocimiento,排列数,número de permutaciones,1812,0.664459,1723,89,0.656413,0.820225,0.163811
+31,表外除法计算,Cálculo de división fuera de mesa,拓展思维,Expande tu pensamiento,表外除法计算,Cálculo de división fuera de mesa,1787,0.862899,1200,587,0.849167,0.890971,0.041804
+130,追及与相遇结合,Combinando búsqueda y encuentro,拓展思维,Expande tu pensamiento,追及与相遇结合,Combinando búsqueda y encuentro,1786,0.709966,1786,0,0.709966,,
+74,单一对象条形图,Gráfico de barras de un solo objeto,拓展思维,Expande tu pensamiento,单一对象条形图,Gráfico de barras de un solo objeto,1779,0.548061,1752,27,0.547945,0.555556,0.00761
+196,小数比大小,tamaño de la proporción decimal,拓展思维,Expande tu pensamiento,小数比大小,tamaño de la proporción decimal,1778,0.815523,1728,50,0.810764,0.98,0.169236
+337,用假设法解决倒扣型鸡兔同笼,Utilice el método de hipótesis para resolver el problema de un pollo y un conejo que viven en la misma jaula al revés,课内题型,Tipos de preguntas en clase,用假设法解决倒扣型鸡兔同笼,Utilice el método de hipótesis para resolver el problema de un pollo y un conejo que viven en la misma jaula al revés,1767,0.640068,1744,23,0.639908,0.652174,0.012266
+390,整数减法性质,Propiedades de resta de números enteros,知识点,Puntos de conocimiento,整数减法性质,Propiedades de resta de números enteros,1743,0.927711,1743,0,0.927711,,
+63,分一半,dividir por la mitad,拓展思维,Expande tu pensamiento,分一半,dividir por la mitad,1742,0.907003,1726,16,0.909038,0.6875,-0.221538
+226,认识平行四边形的底、高,Comprender la base y la altura de un paralelogramo.,课内知识点,Puntos de conocimiento en clase,认识平行四边形的底、高,Comprender la base y la altura de un paralelogramo.,1733,0.851125,1620,113,0.869136,0.59292,-0.276215
+13,几何方法差不变,La diferencia del método geométrico no cambia.,拓展思维,Expande tu pensamiento,几何方法差不变,La diferencia del método geométrico no cambia.,1721,0.805346,1721,0,0.805346,,
+8,楼梯型不规则图形求周长,Calcular el perímetro de una figura irregular en forma de escalera,拓展思维,Expande tu pensamiento,楼梯型不规则图形求周长,Calcular el perímetro de una figura irregular en forma de escalera,1706,0.865182,585,1121,0.847863,0.874219,0.026356
+470,封闭路线植树问题,Problemas con la plantación de árboles en rutas cerradas,知识点,Puntos de conocimiento,封闭路线植树问题,Problemas con la plantación de árboles en rutas cerradas,1662,0.865223,1586,76,0.861286,0.947368,0.086082
+360,数形结合的实际应用,Aplicación práctica de combinar números y formas.,拓展思维,Expande tu pensamiento,数形结合的实际应用,Aplicación práctica de combinar números y formas.,1654,0.866989,1654,0,0.866989,,
+341,减法竖式,forma vertical de resta,拓展思维,Expande tu pensamiento,加法竖式,Forma vertical aditiva,1648,0.930218,1648,0,0.930218,,
+171,已知两量之间倍数关系和一份量，求多份量,"Dada la relación múltiple entre las dos cantidades y la cantidad de una porción, encuentre la cantidad de múltiples porciones",课内题型,Tipos de preguntas en clase,已知两量之间倍数关系和一份量，求多份量,"Dada la relación múltiple entre las dos cantidades y la cantidad de una porción, encuentre la cantidad de múltiples porciones",1648,0.742718,1613,35,0.738376,0.942857,0.204481
+342,加法竖式,Forma vertical aditiva,拓展思维,Expande tu pensamiento,加法竖式,Forma vertical aditiva,1648,0.930218,0,1648,,0.930218,
+409,整除特征综合,Síntesis de características divisibles,课内知识点,Puntos de conocimiento en clase,2的倍数特征,Características de múltiplos de 2,1623,0.674677,1623,0,0.674677,,
+326,正方形周长公式,Fórmula del perímetro cuadrado,课内题型,Tipos de preguntas en clase,公式法长方形正方形周长,Método de fórmula del perímetro del cuadrado del rectángulo.,1612,0.844293,260,1352,0.780769,0.856509,0.07574
+51,两端都不植树类型问题(段数小于等于10),No hay problema de tipo de plantación de árboles en ambos extremos (el número de segmentos es menor o igual a 10),拓展思维,Expande tu pensamiento,两端都不植树类型问题(段数小于等于10),No hay problema de tipo de plantación de árboles en ambos extremos (el número de segmentos es menor o igual a 10),1600,0.80125,1600,0,0.80125,,
+210,盈亏问题,Problemas de pérdidas y ganancias,拓展思维,Expande tu pensamiento,盈亏问题,Problemas de pérdidas y ganancias,1596,0.800752,1596,0,0.800752,,
+283,和系整除特征,Características divisibles del sistema de suma,拓展思维,Expande tu pensamiento,和系整除特征,Características divisibles del sistema de suma,1583,0.777006,1583,0,0.777006,,
+54,爬楼梯问题,Problema al subir escaleras,拓展思维,Expande tu pensamiento,爬楼梯问题,Problema al subir escaleras,1559,0.776139,1509,50,0.787939,0.42,-0.367939
+431,数字个数,numero de digitos,拓展思维,Expande tu pensamiento,数字个数,numero de digitos,1558,0.831836,1495,63,0.837458,0.698413,-0.139045
+285,多位数的乘法运算,multiplicación de varios dígitos,拓展思维,Expande tu pensamiento,乘法结合律,ley asociativa multiplicativa,1535,0.82215,1349,186,0.82209,0.822581,0.00049
+224,简单的列方程解应用题,Ecuación simple para resolver problemas verbales.,课内知识点,Puntos de conocimiento en clase,简单的列方程解应用题,Ecuación simple para resolver problemas verbales.,1523,0.880499,1090,433,0.884404,0.87067,-0.013734
+247,规则剪拼规则图形（无格）,Gráficos de reglas de corte y ortografía (sin cuadrícula),能力,capacidad,图形认知,cognición gráfica,1520,0.780263,1520,0,0.780263,,
+141,不规则多边形的周长,Perímetro de un polígono irregular,拓展思维,Expande tu pensamiento,不规则多边形的周长,Perímetro de un polígono irregular,1500,0.714,1404,96,0.723647,0.572917,-0.15073
+29,表格法,método tabular,知识点,Puntos de conocimiento,表格法,método tabular,1447,0.819627,1377,70,0.846042,0.3,-0.546042
+250,找规律型定义新运算,Encuentre patrones regulares para definir nuevas operaciones,拓展思维,Expande tu pensamiento,找规律型定义新运算,Encuentre patrones regulares para definir nuevas operaciones,1436,0.821727,1436,0,0.821727,,
+185,变形幻方,Plaza Mágica de Transformación,拓展思维,Expande tu pensamiento,变形幻方,Plaza Mágica de Transformación,1434,0.783821,1434,0,0.783821,,
+422,各点等价,Todos los puntos son equivalentes.,拓展思维,Expande tu pensamiento,各点等价,Todos los puntos son equivalentes.,1423,0.867885,1423,0,0.867885,,
+115,3的倍数特征,Características de múltiplos de 3,课内知识点,Puntos de conocimiento en clase,2的倍数特征,Características de múltiplos de 2,1421,0.720619,0,1421,,0.720619,
+251,高斯记号的基本运算,Operaciones básicas de la notación gaussiana.,知识点,Puntos de conocimiento,高斯记号的基本运算,Operaciones básicas de la notación gaussiana.,1415,0.838163,1415,0,0.838163,,
+294,物品代换,Sustitución de artículos,拓展思维,Expande tu pensamiento,物品代换,Sustitución de artículos,1400,0.619286,66,1334,0.560606,0.622189,0.061583
+143,用枚举法找出最值,Encuentre el mejor valor usando la enumeración,知识点,Puntos de conocimiento,用枚举法找出最值,Encuentre el mejor valor usando la enumeración,1399,0.971408,1399,0,0.971408,,
+477,数字组数（规定数位大小）,Número de grupos de dígitos (especifique el tamaño de los dígitos),拓展思维,Expande tu pensamiento,一般组数问题,Problema general de número de grupo,1396,0.648997,1395,1,0.648746,1.0,0.351254
+407,应用题模块,Módulo de preguntas de aplicación,拓展思维,Expande tu pensamiento,应用题模块,Módulo de preguntas de aplicación,1393,0.623116,1392,1,0.622845,1.0,0.377155
+153,分数的性质,propiedades de fracciones,拓展思维,Expande tu pensamiento,分数的性质,propiedades de fracciones,1385,0.648375,1382,3,0.647612,1.0,0.352388
+72,数据的简单分析,Análisis sencillo de datos.,课内知识点,Puntos de conocimiento en clase,数据的简单分析,Análisis sencillo de datos.,1358,0.860088,350,1008,0.84,0.867063,0.027063
+478,优限法,método de límite óptimo,拓展思维,Expande tu pensamiento,一般组数问题,Problema general de número de grupo,1355,0.648708,13,1342,1.0,0.645306,-0.354694
+339,用假设法解决变形鸡兔同笼,Utilice el método de hipótesis para resolver el problema del pollo y el conejo deformes en la misma jaula.,课内题型,Tipos de preguntas en clase,用假设法解决变形鸡兔同笼,Utilice el método de hipótesis para resolver el problema del pollo y el conejo deformes en la misma jaula.,1342,0.780924,1342,0,0.780924,,
+371,绘制统计表,Dibujar tablas estadísticas.,拓展思维,Expande tu pensamiento,绘制统计表,Dibujar tablas estadísticas.,1336,0.729042,1336,0,0.729042,,
+83,数码综合问题,temas integrales digitales,拓展思维,Expande tu pensamiento,数码综合问题,temas integrales digitales,1333,0.653413,1144,189,0.629371,0.798942,0.169571
+462,两次分配对象不同,Los dos objetos asignados son diferentes.,拓展思维,Expande tu pensamiento,两次分配对象不同,Los dos objetos asignados son diferentes.,1313,0.578065,1313,0,0.578065,,
+300,枚举所有可能的路线,Enumerar todas las rutas posibles,课内题型,Tipos de preguntas en clase,枚举所有可能的路线,Enumerar todas las rutas posibles,1304,0.866564,367,937,0.574932,0.98079,0.405858
+351,用字母表示数量关系（ax＋bx）,Usar letras para expresar relaciones cuantitativas (ax + bx),知识点,Puntos de conocimiento,用字母表示数量关系（ax＋bx）,Usar letras para expresar relaciones cuantitativas (ax + bx),1299,0.91301,1299,0,0.91301,,
+394,整体思想求面积,Pensamiento general para encontrar el área.,拓展思维,Expande tu pensamiento,整体思想求面积,Pensamiento general para encontrar el área.,1299,0.742879,0,1299,,0.742879,
+411,2的倍数特征,Características de múltiplos de 2,课内知识点,Puntos de conocimiento en clase,2的倍数特征,Características de múltiplos de 2,1296,0.704475,0,1296,,0.704475,
+216,加法拆数（不完全相同数）,Suma y división de números (números no idénticos),拓展思维,Expande tu pensamiento,加法拆数（不完全相同数）,Suma y división de números (números no idénticos),1279,0.655199,1279,0,0.655199,,
+412,5的倍数特征,Características de múltiplos de 5,课内知识点,Puntos de conocimiento en clase,2的倍数特征,Características de múltiplos de 2,1278,0.709703,46,1232,1.0,0.698864,-0.301136
+191,认识直角、锐角和钝角,"Reconocer ángulos rectos, ángulos agudos y ángulos obtusos.",拓展思维,Expande tu pensamiento,角的认知,cognición de ángulos,1269,0.939322,1269,0,0.939322,,
+107,不同时出发,Salida en diferentes horarios.,拓展思维,Expande tu pensamiento,不同时出发,Salida en diferentes horarios.,1246,0.727929,1246,0,0.727929,,
+380,利用特殊角求角度,Encuentra ángulos usando ángulos especiales.,知识点,Puntos de conocimiento,利用特殊角求角度,Encuentra ángulos usando ángulos especiales.,1242,0.425121,717,525,0.269177,0.638095,0.368918
+156,图文周期,Ciclo de imagen y texto,拓展思维,Expande tu pensamiento,图文周期,Ciclo de imagen y texto,1233,0.754258,1231,2,0.753859,1.0,0.246141
+410,倍数的认识,Comprensión de los múltiplos,课内知识点,Puntos de conocimiento en clase,2的倍数特征,Características de múltiplos de 2,1229,0.698129,0,1229,,0.698129,
+586,两端都不植树类型问题(段数大于10),No hay problema de tipo de plantación de árboles en ambos extremos (el número de segmentos es mayor que 10),拓展思维,Expande tu pensamiento,两端都不植树类型问题(段数大于10),No hay problema de tipo de plantación de árboles en ambos extremos (el número de segmentos es mayor que 10),1224,0.800654,264,960,0.772727,0.808333,0.035606
+425,最不利原则,principio menos favorable,拓展思维,Expande tu pensamiento,最不利原则,principio menos favorable,1201,0.822648,990,211,0.821212,0.829384,0.008172
+291,各点不等价,Todos los puntos no son equivalentes.,拓展思维,Expande tu pensamiento,各点不等价,Todos los puntos no son equivalentes.,1201,0.605329,1201,0,0.605329,,
+376,总价=单价×数量,Precio total = precio unitario × cantidad,课内知识点,Puntos de conocimiento en clase,总价=单价×数量,Precio total = precio unitario × cantidad,1196,0.925585,22,1174,0.818182,0.927598,0.109416
+256,其他染色,Otros teñidos,拓展思维,Expande tu pensamiento,其他染色,Otros teñidos,1196,1.0,1196,0,1.0,,
+201,分类枚举法数图形,Gráficos de números de clasificación y enumeración.,知识点,Puntos de conocimiento,分类枚举法数图形,Gráficos de números de clasificación y enumeración.,1186,0.796796,1186,0,0.796796,,
+93,公式法求梯形面积,Calcular el área del trapezoide usando el método de fórmula.,课内题型,Tipos de preguntas en clase,公式法求梯形面积,Calcular el área del trapezoide usando el método de fórmula.,1183,0.734573,256,927,0.847656,0.703344,-0.144312
+304,传球型递推,pasando recursividad,拓展思维,Expande tu pensamiento,传球型递推,pasando recursividad,1169,0.759624,1168,1,0.759418,1.0,0.240582
+219,无限制,Ilimitado,拓展思维,Expande tu pensamiento,无限制,Ilimitado,1144,0.676573,1144,0,0.676573,,
+116,和系整除特征应用,Aplicación de las características de divisibilidad de números enteros del sistema de suma.,拓展思维,Expande tu pensamiento,和系整除特征应用,Aplicación de las características de divisibilidad de números enteros del sistema de suma.,1112,0.640288,1112,0,0.640288,,
+388,整数加减巧算之分组法,Método de agrupación para suma y resta de números enteros.,拓展思维,Expande tu pensamiento,添去括号,Agregar y quitar corchetes,1110,0.840541,1061,49,0.852026,0.591837,-0.26019
+299,阶梯型标数法,método de escalado tipo escalera,拓展思维,Expande tu pensamiento,阶梯型标数法,método de escalado tipo escalera,1083,0.737765,1083,0,0.737765,,
+270,抄错数得出结果，求正确的,"Copie el número incorrecto para obtener el resultado, encuentre el correcto",拓展思维,Expande tu pensamiento,抄错数得出结果，求正确的,Se obtiene un resultado al copiar mal un número; hallar el resultado correcto,1079,0.646895,1079,0,0.646895,,
+327,计算模块,módulo de cálculo,拓展思维,Expande tu pensamiento,计算模块,módulo de cálculo,1073,0.836906,537,536,0.888268,0.785448,-0.10282
+381,数列规律,Leyes de secuencia,课内题型,Tipos de preguntas en clase,数列规律,Patrones en sucesiones,1070,0.94486,1070,0,0.94486,,
+96,用公式直接求速度,Encuentra la velocidad directamente usando la fórmula.,拓展思维,Expande tu pensamiento,单人简单行程问题,Pregunta de itinerario simple para una sola persona.,1062,0.897363,86,976,0.94186,0.893443,-0.048418
+230,火柴棒摆算式,Cálculo del fósforo,拓展思维,Expande tu pensamiento,火柴棒摆算式,Cálculo del fósforo,1048,0.707061,1048,0,0.707061,,
+259,方阵问题,problema de matriz cuadrada,知识点,Puntos de conocimiento,方阵问题,problema de matriz cuadrada,1045,0.647847,452,593,0.449115,0.799325,0.35021
+197,小数的计数单位（十分位、百分位、千分位）,"Unidades de conteo decimales (décimas, centésimas, milésimas)",课内知识点,Puntos de conocimiento en clase,小数的计数单位（十分位、百分位、千分位）,"Unidades de conteo decimales (décimas, centésimas, milésimas)",1040,0.500962,1040,0,0.500962,,
+292,火车过人,el tren pasa,拓展思维,Expande tu pensamiento,火车过人,el tren pasa,1033,0.752178,1033,0,0.752178,,
+344,角的判断,juicio de ángulo,知识点,Puntos de conocimiento,角的判断,juicio de ángulo,1033,0.912875,1033,0,0.912875,,
+71,复式条形统计图,gráfico de barras compuesto,知识点,Puntos de conocimiento,复式条形统计图,gráfico de barras compuesto,1026,0.791423,1026,0,0.791423,,
+405,实心方阵综合问题,Problema integral de matriz cuadrada sólida.,拓展思维,Expande tu pensamiento,实心方阵综合问题,Problema integral de matriz cuadrada sólida.,1021,0.856024,1021,0,0.856024,,
+279,单人变速问题,Problema de transmisión única,拓展思维,Expande tu pensamiento,单人变速问题,Problema de transmisión única,1016,0.838583,431,585,0.798144,0.868376,0.070232
+635,一端植树类型问题(段数大于10),Problema de tipo de plantación de árboles en un extremo (el número de segmentos es mayor a 10),拓展思维,Expande tu pensamiento,两端都不植树类型问题(段数大于10),No hay problema de tipo de plantación de árboles en ambos extremos (el número de segmentos es mayor que 10),1014,0.794872,1014,0,0.794872,,
+28,长方形正方形组合图形周长,Perímetro de la figura combinada del cuadrado del rectángulo.,拓展思维,Expande tu pensamiento,长方形正方形组合图形周长,Perímetro de la figura combinada del cuadrado del rectángulo.,966,0.851967,943,23,0.851538,0.869565,0.018028
+296,已知两量之间几倍多（少）几与一份量，求多份量,"Dada cuántas veces más (menos) las dos cantidades y la cantidad de una porción, encuentre la porción múltiple",课内题型,Tipos de preguntas en clase,已知两量之间几倍多（少）几与一份量，求多份量,"Dada cuántas veces más (menos) las dos cantidades y la cantidad de una porción, encuentre la porción múltiple",956,0.645397,0,956,,0.645397,
+42,封闭植树类型问题(段数大于10),Problema de tipo de plantación de árboles cerrados (el número de segmentos es mayor a 10),拓展思维,Expande tu pensamiento,封闭植树类型问题(段数大于10),Problema de tipo de plantación de árboles cerrados (el número de segmentos es mayor a 10),953,0.858342,953,0,0.858342,,
+355,整数拆分应用,Aplicación de división de enteros,拓展思维,Expande tu pensamiento,整数拆分应用,Aplicación de división de enteros,953,0.527807,9,944,0.777778,0.525424,-0.252354
+382,小数点的移动规律,Reglas de movimiento del punto decimal,拓展思维,Expande tu pensamiento,小数点的移动规律,Reglas de movimiento del punto decimal,951,0.78654,950,1,0.786316,1.0,0.213684
+424,简单抽屉原理,Principio de cajón simple,拓展思维,Expande tu pensamiento,简单抽屉原理,Principio de cajón simple,951,0.871714,951,0,0.871714,,
+466,复合型不规则图形求周长,Calcular el perímetro de figuras irregulares compuestas.,拓展思维,Expande tu pensamiento,复合型不规则图形求周长,Calcular el perímetro de figuras irregulares compuestas.,949,0.675448,949,0,0.675448,,
+47,一端种树问题,Problema de plantar árboles en un extremo.,知识点,Puntos de conocimiento,一端种树问题,Problema de plantar árboles en un extremo.,923,0.820152,741,182,0.823212,0.807692,-0.01552
+387,盈亏基本类型,Tipos básicos de pérdidas y ganancias.,知识点,Puntos de conocimiento,归总问题,Resumiendo el problema,923,0.966414,21,902,0.857143,0.968958,0.111815
+486,等腰三角形,triangulo isósceles,能力,capacidad,图形认知,cognición gráfica,920,0.855435,908,12,0.863436,0.25,-0.613436
+473,小数读写规则,Reglas de lectura y escritura decimal.,课内知识点,Puntos de conocimiento en clase,小数读写规则,Reglas de lectura y escritura decimal.,909,0.928493,909,0,0.928493,,
+391,两位数减整十数的口算,Aritmética oral para restar decenas enteras de números de dos cifras,知识点,Puntos de conocimiento,两位数减整十数的口算,Aritmética oral para restar decenas enteras de números de dos cifras,907,0.963616,907,0,0.963616,,
+125,数列与数表,Secuencias y tablas,拓展思维,Expande tu pensamiento,数列与数表,Secuencias y tablas,891,0.556678,891,0,0.556678,,
+15,图形剪拼,Corte gráfico y ortografía.,拓展思维,Expande tu pensamiento,图形剪拼,Corte gráfico y ortografía.,890,0.801124,631,259,0.828843,0.733591,-0.095252
+190,标准六宫,Estándar Sexta Casa,拓展思维,Expande tu pensamiento,标准六宫,Estándar Sexta Casa,881,0.807037,881,0,0.807037,,
+80,用分组法解决基础鸡兔同笼,Utilice el método de agrupación para resolver problemas básicos de pollo y conejo en la misma jaula.,课内题型,Tipos de preguntas en clase,用分组法解决基础鸡兔同笼,Utilice el método de agrupación para resolver problemas básicos de pollo y conejo en la misma jaula.,877,0.843786,866,11,0.845266,0.727273,-0.117993
+368,找日历中的周期规律,Encuentra patrones de ciclo en el calendario.,课内知识点,Puntos de conocimiento en clase,找日历中的周期规律,Encuentra patrones de ciclo en el calendario.,864,0.653935,864,0,0.653935,,
+105,用公式直接求路程,Encuentra la distancia directamente usando la fórmula.,课内题型,Tipos de preguntas en clase,用公式直接求路程,Encuentra la distancia directamente usando la fórmula.,863,0.727694,479,384,0.703549,0.757812,0.054263
+325,两量差倍,La diferencia entre las dos cantidades.,知识点,Puntos de conocimiento,两量差倍,La diferencia entre las dos cantidades.,862,0.602088,862,0,0.602088,,
+287,整数拆补凑整,Complemento entero y redondeo,拓展思维,Expande tu pensamiento,整数拆补凑整,Complemento entero y redondeo,838,0.749403,838,0,0.749403,,
+293,多人相遇追及问题,Problemas de seguimiento y encuentro entre varias personas,拓展思维,Expande tu pensamiento,多人相遇追及问题,Problemas de seguimiento y encuentro entre varias personas,832,0.762019,832,0,0.762019,,
+393,多数的最大公因数,máximo común divisor de la mayoría,拓展思维,Expande tu pensamiento,多数的最大公因数,máximo común divisor de la mayoría,831,0.891697,831,0,0.891697,,
+158,圆周中的周期,período en círculo,拓展思维,Expande tu pensamiento,圆周中的周期,período en círculo,825,0.745455,825,0,0.745455,,
+474,小数的计数单位,unidad de conteo decimal,课内知识点,Puntos de conocimiento en clase,小数读写规则,Reglas de lectura y escritura decimal.,823,0.934386,0,823,,0.934386,
+151,平均数问题,problema promedio,拓展思维,Expande tu pensamiento,平均数问题,problema promedio,815,0.555828,815,0,0.555828,,
+489,多量倍,veces más,拓展思维,Expande tu pensamiento,多量倍,veces más,802,0.895262,802,0,0.895262,,
+357,加法拆数（无要求）,Sumar y dividir números (sin requisito),拓展思维,Expande tu pensamiento,加法拆数（无要求）,Sumar y dividir números (sin requisito),792,0.739899,792,0,0.739899,,
+386,分类图形,Gráficos de clasificación,拓展思维,Expande tu pensamiento,分类图形,Gráficos de clasificación,788,0.865482,788,0,0.865482,,
+137,列方程解应用题,Resolver problemas escritos usando ecuaciones.,拓展思维,Expande tu pensamiento,列方程解应用题,Resolver problemas escritos usando ecuaciones.,786,0.871501,786,0,0.871501,,
+22,半真半假,Mitad verdad y mitad mentira,知识点,Puntos de conocimiento,半真半假,Mitad verdad y mitad mentira,775,0.793548,775,0,0.793548,,
+488,整数除法运算,Operación de división de enteros,拓展思维,Expande tu pensamiento,整数除法运算,Operación de división de enteros,771,0.571984,393,378,0.83715,0.296296,-0.540854
+435,3-1-0 积分制,Sistema de puntos 3-1-0,拓展思维,Expande tu pensamiento,3-1-0 积分制,Sistema de puntos 3-1-0,756,0.822751,756,0,0.822751,,
+48,敲钟问题,problema de timbre,拓展思维,Expande tu pensamiento,敲钟问题,problema de timbre,753,0.642762,753,0,0.642762,,
+479,分割与剪拼,dividir y cortar,拓展思维,Expande tu pensamiento,分割与剪拼,dividir y cortar,740,0.745946,740,0,0.745946,,
+484,统计图表,Cuadro estadístico,知识点,Puntos de conocimiento,复式条形统计图,gráfico de barras compuesto,739,0.729364,0,739,,0.729364,
+84,容斥原理,Principio de inclusión-exclusión,拓展思维,Expande tu pensamiento,容斥原理,Principio de inclusión-exclusión,721,0.837725,660,61,0.859091,0.606557,-0.252534
+100,双人简单行程问题,Itinerario sencillo para dos personas.,拓展思维,Expande tu pensamiento,双人简单行程问题,Itinerario sencillo para dos personas.,720,0.745833,658,62,0.743161,0.774194,0.031032
+659,利用奇偶规律构算式,Usar reglas pares e impares para construir ecuaciones,课内知识点,Puntos de conocimiento en clase,总价=单价×数量,Precio total = precio unitario × cantidad,713,0.932679,713,0,0.932679,,
+159,数列找规律填数,Encuentra patrones y completa números en una secuencia de números.,拓展思维,Expande tu pensamiento,数列找规律填数,Encuentra patrones y completa números en una secuencia de números.,710,0.923944,710,0,0.923944,,
+295,已知两量之间几倍多（少）几和多份量，求一份量,"Dada cuántas veces más (menos) y cuántas porciones hay entre las dos cantidades, encuentre la cantidad de una porción",课内题型,Tipos de preguntas en clase,已知两量之间几倍多（少）几和多份量，求一份量,"Dada cuántas veces más (menos) y cuántas porciones hay entre las dos cantidades, encuentre la cantidad de una porción",707,0.944837,707,0,0.944837,,
+334,组合模块,Módulo combinado,拓展思维,Expande tu pensamiento,组合模块,Módulo combinado,705,0.408511,705,0,0.408511,,
+332,偶数阶幻方填法,Método de llenado de cuadrados mágicos de orden par,拓展思维,Expande tu pensamiento,偶数阶幻方填法,Método de llenado de cuadrados mágicos de orden par,695,0.781295,695,0,0.781295,,
+338,几何模块,módulo de geometría,拓展思维,Expande tu pensamiento,几何模块,módulo de geometría,693,0.611833,693,0,0.611833,,
+483,直接运用公式求数量,Calcular la cantidad directamente usando la fórmula.,能力,capacidad,实践应用,Aplicación práctica,692,0.991329,692,0,0.991329,,
+60,还原问题,Restaurar problema,知识点,Puntos de conocimiento,还原问题,Restaurar problema,685,0.913869,152,533,0.888158,0.921201,0.033043
+282,两人相遇与追及问题,Los dos se encontraron y siguieron el problema.,拓展思维,Expande tu pensamiento,两人相遇与追及问题,Los dos se encontraron y siguieron el problema.,682,0.869501,217,465,0.903226,0.853763,-0.049462
+504,平行四边形面积公式应用,Aplicación de fórmula para área de paralelogramo.,能力,capacidad,图形认知,cognición gráfica,676,0.897929,75,601,0.693333,0.923461,0.230128
+372,边长改变后长方形面积的计算,Cálculo del área de un rectángulo después de cambiar la longitud del lado,拓展思维,Expande tu pensamiento,边长改变后长方形面积的计算,Cálculo del área de un rectángulo después de cambiar la longitud del lado,648,0.828704,557,91,0.840215,0.758242,-0.081974
+288,位置关系,relación posicional,拓展思维,Expande tu pensamiento,位置关系,relación posicional,645,0.865116,645,0,0.865116,,
+103,逻辑分析,análisis lógico,七大能力,Siete habilidades,逻辑分析,análisis lógico,639,0.766823,146,493,0.767123,0.766734,-0.000389
+481,和的奇偶性,paridad de y,能力,capacidad,数据处理,Proceso de datos,635,0.880315,635,0,0.880315,,
+501,相邻数字只填加号组数,Complete solo el número de grupos de signos más para números adyacentes,拓展思维,Expande tu pensamiento,相邻数字只填加号组数,Complete solo el número de grupos de signos más para números adyacentes,625,0.9456,625,0,0.9456,,
+350,用字母表示数量关系(a+bx),Usar letras para expresar relaciones cuantitativas (a+bx),知识点,Puntos de conocimiento,用字母表示数量关系(a+bx),Usar letras para expresar relaciones cuantitativas (a+bx),624,0.820513,624,0,0.820513,,
+395,图文减法竖式数字谜,Rompecabezas de números verticales de resta de imágenes y texto,拓展思维,Expande tu pensamiento,加法竖式谜,Rompecabezas vertical de suma,624,0.676282,244,380,0.770492,0.615789,-0.154702
+536,不约分分数的认识,Comprensión de fracciones irreducibles.,拓展思维,Expande tu pensamiento,不约分分数的认识,Comprensión de fracciones irreducibles.,622,0.844051,622,0,0.844051,,
+278,公式法求相遇时间,Método de fórmula para encontrar el tiempo de encuentro.,课内题型,Tipos de preguntas en clase,公式法求相遇时间,Método de fórmula para encontrar el tiempo de encuentro.,620,0.96129,0,620,,0.96129,
+467,方程法解盈亏问题,Resolver problemas de pérdidas y ganancias mediante el método de ecuaciones,拓展思维,Expande tu pensamiento,方程法解盈亏问题,Resolver problemas de pérdidas y ganancias mediante el método de ecuaciones,612,0.947712,612,0,0.947712,,
+186,从统计图表中获取信息,Obtener información de cuadros estadísticos,知识点,Puntos de conocimiento,从统计图表中获取信息,Obtener información de cuadros estadísticos,610,0.744262,610,0,0.744262,,
+284,多位数的加减运算,Suma y resta de varios dígitos,拓展思维,Expande tu pensamiento,多位数的加减运算,Suma y resta de varios dígitos,603,0.794362,411,192,0.778589,0.828125,0.049536
+290,简单时间统筹问题,Problema simple de coordinación del tiempo.,拓展思维,Expande tu pensamiento,简单时间统筹问题,Problema simple de coordinación del tiempo.,602,0.916944,602,0,0.916944,,
+377,加减法应用,Aplicación de suma y resta,拓展思维,Expande tu pensamiento,加减法应用,Aplicación de suma y resta,595,0.895798,595,0,0.895798,,
+356,两边都填符号型,Complete los símbolos en ambos lados.,拓展思维,Expande tu pensamiento,两边都填符号型,Complete los símbolos en ambos lados.,589,0.891341,589,0,0.891341,,
+122,整数加减巧算之位值原理,El principio del valor posicional de la suma y resta de números enteros,拓展思维,Expande tu pensamiento,整数加减巧算之位值原理,El principio del valor posicional de la suma y resta de números enteros,586,0.819113,586,0,0.819113,,
+487,多边形内角和,La suma de los ángulos interiores de un polígono.,拓展思维,Expande tu pensamiento,多边形内角和,La suma de los ángulos interiores de un polígono.,584,0.803082,584,0,0.803082,,
+414,数回,varias veces,拓展思维,Expande tu pensamiento,数回,varias veces,584,0.738014,584,0,0.738014,,
+472,小数的性质,Propiedades de los decimales,拓展思维,Expande tu pensamiento,小数的认识,Comprensión de los decimales.,583,0.969125,0,583,,0.969125,
+396,竖式数字谜,Rompecabezas de números verticales,拓展思维,Expande tu pensamiento,竖式数字谜,Rompecabezas de números verticales,579,0.834197,579,0,0.834197,,
+120,加法横式,Suma forma horizontal,拓展思维,Expande tu pensamiento,加法横式,Suma forma horizontal,577,0.771231,577,0,0.771231,,
+246,排列综合,Permutación y síntesis,拓展思维,Expande tu pensamiento,排列综合,Permutación y síntesis,575,0.749565,461,114,0.718004,0.877193,0.159189
+369,区分闰年和平年,Distinguir entre años bisiestos y años pacíficos.,课内知识点,Puntos de conocimiento en clase,找日历中的周期规律,Encuentra patrones de ciclo en el calendario.,570,0.550877,0,570,,0.550877,
+215,给定个数分东西,Dar a las cosas un número determinado,拓展思维,Expande tu pensamiento,加法拆数（应用）,Sumar y dividir números (aplicación),569,0.891037,569,0,0.891037,,
+317,通分母,denominador común,拓展思维,Expande tu pensamiento,通分母,denominador común,563,0.868561,371,192,0.843666,0.916667,0.073001
+485,三角形三边关系（两边之和大于第三边）,Relación entre los tres lados de un triángulo (la suma de dos lados es mayor que el tercer lado),课内知识点,Puntos de conocimiento en clase,三角形三边关系（两边之和大于第三边）,Relación entre los tres lados de un triángulo (la suma de dos lados es mayor que el tercer lado),544,0.683824,544,0,0.683824,,
+126,烙饼问题,problema de panqueques,拓展思维,Expande tu pensamiento,烙饼问题,problema de panqueques,542,0.47048,542,0,0.47048,,
+582,程序性计算,cómputo procesal,能力,capacidad,程序性计算,cómputo procesal,536,0.912313,536,0,0.912313,,
+502,平移法求组合图形周长,Calcular el perímetro de figuras combinadas mediante el método de traducción,知识点,Puntos de conocimiento,平移法求组合图形周长,Calcular el perímetro de figuras combinadas mediante el método de traducción,534,0.775281,534,0,0.775281,,
+308,除法应用,Aplicación de división,拓展思维,Expande tu pensamiento,除法应用,Aplicación de división,532,0.894737,532,0,0.894737,,
+320,面积单位换算,Conversión de unidades de área,拓展思维,Expande tu pensamiento,面积单位换算,Conversión de unidades de área,531,0.53484,531,0,0.53484,,
+245,排列的基本应用,Aplicaciones básicas de alineación,拓展思维,Expande tu pensamiento,排列的基本应用,Aplicaciones básicas de alineación,528,0.712121,528,0,0.712121,,
+85,页码问题,Problema con el número de página,拓展思维,Expande tu pensamiento,页码问题,Problema con el número de página,525,0.666667,500,25,0.652,0.96,0.308
+476,简单乘法巧算,Cálculo de multiplicación simple,课内知识点,Puntos de conocimiento en clase,简单乘法巧算,Cálculo de multiplicación simple,523,0.629063,509,14,0.638507,0.285714,-0.352793
+324,多量和倍问题,Problemas con múltiplos y múltiplos.,拓展思维,Expande tu pensamiento,多量和倍问题,Problemas con múltiplos y múltiplos.,520,0.871154,520,0,0.871154,,
+384,元、角、分单位换算,"Conversión de unidades de yuanes, ángulos y minutos",知识点,Puntos de conocimiento,元、角、分单位换算,"Conversión de unidades de yuanes, ángulos y minutos",519,0.976879,519,0,0.976879,,
+644,真假话,Verdadero o falso,拓展思维,Expande tu pensamiento,真假话,Verdadero o falso,516,0.699612,515,1,0.700971,0.0,-0.700971
+268,知少求多,Saber menos y buscar más,拓展思维,Expande tu pensamiento,知少求多,Saber menos y buscar más,515,0.864078,515,0,0.864078,,
+52,两端都不种树问题,El problema de no plantar árboles en ambos extremos,课内题型,Tipos de preguntas en clase,两端都不种树问题,El problema de no plantar árboles en ambos extremos,514,0.636187,514,0,0.636187,,
+508,公式求正方形面积,Fórmula para encontrar el área de un cuadrado,拓展思维,Expande tu pensamiento,几何方法整体减空白,Método geométrico para reducir el espacio en blanco general,500,0.82,490,10,0.818367,0.9,0.081633
+280,同时同地出发折返相遇,Salir del mismo lugar a la misma hora y regresar para encontrarse,拓展思维,Expande tu pensamiento,同时同地出发折返相遇,Salir del mismo lugar a la misma hora y regresar para encontrarse,497,0.873239,497,0,0.873239,,
+276,头倍型,Cefalotipo,拓展思维,Expande tu pensamiento,头倍型,Cefalotipo,497,0.7666,497,0,0.7666,,
+323,二量和倍问题,Problema de dos cantidades y tiempos.,拓展思维,Expande tu pensamiento,二量和倍问题,Problema de dos cantidades y tiempos.,489,0.883436,489,0,0.883436,,
+482,数据处理,Proceso de datos,能力,capacidad,数据处理,Proceso de datos,487,0.833676,0,487,,0.833676,
+658,加减抵消法,"Método de suma, resta y compensación",拓展思维,Expande tu pensamiento,加减抵消法,"Método de suma, resta y compensación",485,0.760825,485,0,0.760825,,
+526,巧填算符,operador inteligente,拓展思维,Expande tu pensamiento,巧填算符,operador inteligente,485,0.989691,485,0,0.989691,,
+129,路程=速度×时间,distancia = velocidad x tiempo,拓展思维,Expande tu pensamiento,两人相遇与追及问题,Los dos se encontraron y siguieron el problema.,484,0.830579,429,55,0.846154,0.709091,-0.137063
+322,加法的实际应用,Aplicaciones prácticas de la suma.,知识点,Puntos de conocimiento,加法的实际应用,Aplicaciones prácticas de la suma.,482,0.865145,270,212,0.940741,0.768868,-0.171873
+370,暗倍型二量差倍问题,Problema de aumento de diferencia de dos cantidades de tipo de aumento oscuro,拓展思维,Expande tu pensamiento,暗倍型二量差倍问题,Problema de aumento de diferencia de dos cantidades de tipo de aumento oscuro,481,0.871102,481,0,0.871102,,
+97,平行四边形边角特点,Características de las esquinas del paralelogramo,课内知识点,Puntos de conocimiento en clase,平行四边形边角特点,Características de las esquinas del paralelogramo,481,0.904366,481,0,0.904366,,
+267,和倍问题,problema de suma de tiempos,拓展思维,Expande tu pensamiento,除法中四量关系,Relación entre cuatro cantidades en división,472,0.663136,18,454,0.666667,0.662996,-0.003671
+302,五宫肯肯数独,Sudoku Kenken de los Cinco Palacios,拓展思维,Expande tu pensamiento,五宫肯肯数独,Sudoku Kenken de los Cinco Palacios,471,0.804671,471,0,0.804671,,
+375,复式统计表,Tabla de estadísticas de doble entrada,课内知识点,Puntos de conocimiento en clase,总价=单价×数量,Precio total = precio unitario × cantidad,461,0.91974,461,0,0.91974,,
+657,整数加法运算,Suma de enteros,课内知识点,Puntos de conocimiento en clase,运算律,leyes operativas,445,0.844944,0,445,,0.844944,
+505,方程法解其他问题,Resolver otros problemas usando el método de ecuaciones.,拓展思维,Expande tu pensamiento,除法中四量关系,Relación entre cuatro cantidades en división,443,0.891648,6,437,1.0,0.89016,-0.10984
+297,方程基础,Conceptos básicos de ecuaciones,拓展思维,Expande tu pensamiento,方程基础,Conceptos básicos de ecuaciones,440,0.856818,0,440,,0.856818,
+255,等差数列,secuencia aritmética,拓展思维,Expande tu pensamiento,等差数列,secuencia aritmética,437,0.951945,437,0,0.951945,,
+79,灵活分组,Agrupación flexible,拓展思维,Expande tu pensamiento,灵活分组,Agrupación flexible,436,0.811927,436,0,0.811927,,
+315,已知各个数，求平均数,"Dado cada número, encuentre el promedio.",课内题型,Tipos de preguntas en clase,已知各个数，求平均数,"Dado cada número, encuentre el promedio.",435,0.777011,399,36,0.761905,0.944444,0.18254
+498,认识单位1,Conozca la unidad 1,拓展思维,Expande tu pensamiento,认识单位1,Conozca la unidad 1,432,0.49537,432,0,0.49537,,
+95,正求反求面积,Encuentra el área hacia adelante e inversamente.,知识点,Puntos de conocimiento,正求反求面积,Cálculo directo e inverso de áreas,429,0.967366,429,0,0.967366,,
+518,小数比较大小,Tamaño de comparación decimal,知识点,Puntos de conocimiento,小数比较大小,Tamaño de comparación decimal,428,0.925234,78,350,0.782051,0.957143,0.175092
+491,幻方,cuadrado magico,知识点,Puntos de conocimiento,幻方,cuadrado magico,423,0.728132,371,52,0.690027,1.0,0.309973
+643,其它图形分割,Otra segmentación de gráficos,拓展思维,Expande tu pensamiento,其它图形分割,Otra segmentación de gráficos,421,0.83848,0,421,,0.83848,
+451,梯形面积公式应用,Aplicación de la fórmula del área trapezoidal.,课内题型,Tipos de preguntas en clase,公式法求梯形面积,Calcular el área del trapezoide usando el método de fórmula.,418,0.497608,418,0,0.497608,,
+404,空心方阵综合问题,Problema integral de la matriz cuadrada hueca.,拓展思维,Expande tu pensamiento,空心方阵综合问题,Problema integral de la matriz cuadrada hueca.,412,0.808252,412,0,0.808252,,
+469,三角形的认识,conocimiento de triangulos,拓展思维,Expande tu pensamiento,三角形的认识,conocimiento de triangulos,402,0.883085,402,0,0.883085,,
+254,图形规律,Reglas gráficas,课内题型,Tipos de preguntas en clase,图形规律,Reglas gráficas,401,0.835411,401,0,0.835411,,
+430,倍数应用题,Múltiples problemas escritos,拓展思维,Expande tu pensamiento,倍数应用题,Múltiples problemas escritos,399,0.761905,399,0,0.761905,,
+475,多笔画,múltiples golpes,拓展思维,Expande tu pensamiento,多笔画,múltiples golpes,394,0.730964,394,0,0.730964,,
+497,除法的意义,El significado de la división.,拓展思维,Expande tu pensamiento,整数除法运算,Operación de división de enteros,393,0.295165,393,0,0.295165,,
+275,用分组法解决变形鸡兔同笼,Utilice el método de agrupación para resolver el problema de pollos y conejos deformes que viven en la misma jaula,课内题型,Tipos de preguntas en clase,用分组法解决变形鸡兔同笼,Utilice el método de agrupación para resolver el problema de pollos y conejos deformes que viven en la misma jaula,384,0.825521,262,122,0.851145,0.770492,-0.080653
+310,锯木头类型问题,Pregunta sobre el tipo de madera de sierra,拓展思维,Expande tu pensamiento,锯木头类型问题,Pregunta sobre el tipo de madera de sierra,374,0.735294,374,0,0.735294,,
+111,利用奇偶规律构造数,Construir números usando reglas pares e impares.,知识点,Puntos de conocimiento,利用奇偶规律构造数,Construir números usando reglas pares e impares.,370,0.824324,370,0,0.824324,,
+427,图形数独,Sudoku gráfico,拓展思维,Expande tu pensamiento,图形数独,Sudoku gráfico,370,0.805405,370,0,0.805405,,
+385,数与图结合找规律（多图）,Encuentre patrones combinando números e imágenes (varias imágenes),拓展思维,Expande tu pensamiento,等差数列求和,Suma de secuencia aritmética,368,0.836957,288,80,0.826389,0.875,0.048611
+625,多量容斥的几何计数,Conteo geométrico de inclusiones múltiples,拓展思维,Expande tu pensamiento,多量容斥的几何计数,Conteo geométrico de inclusiones múltiples,365,0.873973,365,0,0.873973,,
+321,长度单位换算,Conversión de unidades de longitud,拓展思维,Expande tu pensamiento,面积单位换算,Conversión de unidades de área,364,0.532967,5,359,0.8,0.529248,-0.270752
+650,等差数列长方形数表之已知数求位置,Encuentre la posición de números conocidos en la tabla de números rectangulares de secuencia aritmética,拓展思维,Expande tu pensamiento,等差数列长方形数表之已知数求位置,Encuentre la posición de números conocidos en la tabla de números rectangulares de secuencia aritmética,364,0.71978,0,364,,0.71978,
+649,等差数列长方形数表之已知位置求数,Cálculo de posiciones conocidas de la tabla de números rectangulares de secuencia aritmética.,拓展思维,Expande tu pensamiento,等差数列长方形数表之已知数求位置,Encuentre la posición de números conocidos en la tabla de números rectangulares de secuencia aritmética,364,0.71978,364,0,0.71978,,
+318,整数乘法结合律,Ley asociativa de multiplicación de números enteros.,知识点,Puntos de conocimiento,整数乘法结合律,Ley asociativa de multiplicación de números enteros.,360,0.691667,360,0,0.691667,,
+513,单一对象折线图,Gráfico de líneas de un solo objeto,拓展思维,Expande tu pensamiento,单一对象折线图,Gráfico de líneas de un solo objeto,355,0.861972,319,36,0.852665,0.944444,0.09178
+305,容斥求平均数,Promedio de tolerancia y rechazo,拓展思维,Expande tu pensamiento,容斥求平均数,Promedio de tolerancia y rechazo,353,0.736544,353,0,0.736544,,
+403,数与图结合找规律（单图）,Encuentra patrones combinando números e imágenes (una sola imagen),拓展思维,Expande tu pensamiento,数与图结合找规律（单图）,Encuentra patrones combinando números e imágenes (una sola imagen),353,0.82153,353,0,0.82153,,
+383,小数点的移动,Movimiento del punto decimal,拓展思维,Expande tu pensamiento,小数点的移动规律,Reglas de movimiento del punto decimal,347,0.945245,4,343,0.75,0.947522,0.197522
+420,三角阵基本问题,Preguntas básicas sobre matrices triangulares.,拓展思维,Expande tu pensamiento,三角阵基本问题,Preguntas básicas sobre matrices triangulares.,342,0.704678,342,0,0.704678,,
+364,余数和除数的关系,La relación entre resto y divisor.,课内知识点,Puntos de conocimiento en clase,带余除法,División con resto,334,0.823353,144,190,0.819444,0.826316,0.006871
+306,数字组数（可重复）,Número de grupos de dígitos (repetibles),拓展思维,Expande tu pensamiento,数字组数（可重复）,Número de grupos de dígitos (repetibles),333,0.678679,333,0,0.678679,,
+465,复杂的比例问题,cuestiones de proporciones complejas,拓展思维,Expande tu pensamiento,复杂的比例问题,cuestiones de proporciones complejas,331,0.915408,331,0,0.915408,,
+463,方程法解比例问题,Resolver problemas de proporciones usando el método de ecuaciones.,拓展思维,Expande tu pensamiento,方程法解比例问题,Resolver problemas de proporciones usando el método de ecuaciones.,324,0.953704,324,0,0.953704,,
+496,给定面值求组成可能,"Dado el valor nominal, encuentre las posibles composiciones.",课内题型,Tipos de preguntas en clase,给定面值求组成可能,"Dado el valor nominal, encuentre las posibles composiciones.",323,0.591331,323,0,0.591331,,
+624,折线统计图,gráfico de líneas,课内知识点,Puntos de conocimiento en clase,数据的简单分析,Análisis sencillo de datos.,323,0.863777,0,323,,0.863777,
+358,提取公因数,Extraer factores comunes,拓展思维,Expande tu pensamiento,整数提取公因数,Extraer factores comunes de números enteros.,321,0.934579,321,0,0.934579,,
+612,等差数列的概念,El concepto de secuencia aritmética.,拓展思维,Expande tu pensamiento,等差数列的概念,El concepto de secuencia aritmética.,318,0.955975,214,104,0.939252,0.990385,0.051132
+499,四宫杀手数独,Sudoku del asesino de la cuarta casa,拓展思维,Expande tu pensamiento,四宫杀手数独,Sudoku del asesino de la cuarta casa,315,0.825397,315,0,0.825397,,
+441,图形分面递推,Recursión de facetas gráficas,拓展思维,Expande tu pensamiento,图形分面递推,Recursión de facetas gráficas,310,0.825806,310,0,0.825806,,
+530,一位小数比较大小,Comparar con un decimal,知识点,Puntos de conocimiento,一位小数比较大小,Comparar con un decimal,309,0.760518,161,148,0.813665,0.702703,-0.110962
+531,角度直接运算,Cálculo directo del ángulo,拓展思维,Expande tu pensamiento,角度的计算,cálculo de ángulo,302,0.721854,0,302,,0.721854,
+94,叠加覆盖,cobertura de superposición,拓展思维,Expande tu pensamiento,叠加覆盖,cobertura de superposición,302,0.930464,295,7,0.932203,0.857143,-0.075061
+398,整数直接运用分配律,Los números enteros aplican directamente la ley distributiva.,拓展思维,Expande tu pensamiento,整数直接运用分配律,Los números enteros aplican directamente la ley distributiva.,300,0.803333,225,75,0.768889,0.906667,0.137778
+274,腿倍型,ploidía de piernas,拓展思维,Expande tu pensamiento,腿倍型,ploidía de piernas,298,0.808725,298,0,0.808725,,
+645,列表法找对应,Buscar correspondencia utilizando el método de lista,知识点,Puntos de conocimiento,列表法找对应,Buscar correspondencia utilizando el método de lista,297,0.393939,297,0,0.393939,,
+113,尾数系整除特征,Características de divisibilidad del sistema mantisa.,拓展思维,Expande tu pensamiento,整除初识,primer conocido,291,0.924399,75,216,0.92,0.925926,0.005926
+400,线段、直线与射线认识,"Comprensión de segmentos de línea, rectas y rayos.",课内题型,Tipos de preguntas en clase,直线、射线、线段分类,"Clasificación de rectas, rayos y segmentos de recta.",289,0.304498,79,210,0.658228,0.171429,-0.486799
+406,非整百年闰年和平年的判断,Juicio de los años bisiestos no centenarios y de la paz,课内知识点,Puntos de conocimiento en clase,非整百年闰年和平年的判断,Juicio de los años bisiestos no centenarios y de la paz,288,0.934028,288,0,0.934028,,
+562,笔算乘法：两位数乘两位数（进位）,Multiplicación escrita: multiplicar números de dos cifras por números de dos cifras (llevar),拓展思维,Expande tu pensamiento,表外乘法计算,Cálculo de multiplicación fuera de la tabla,288,0.645833,145,143,0.737931,0.552448,-0.185483
+269,整数系数二元一次方程组解应用题,Resolver problemas verbales de ecuaciones cuadráticas con coeficientes enteros,拓展思维,Expande tu pensamiento,整数系数二元一次方程组解应用题,Resolver problemas verbales de ecuaciones cuadráticas con coeficientes enteros,285,0.82807,285,0,0.82807,,
+289,翻杯子问题,problema de volteo de copa,拓展思维,Expande tu pensamiento,奇数与偶数的应用,Aplicaciones de números pares e impares,284,0.767606,284,0,0.767606,,
+581,数字个数应用,Solicitud de número,拓展思维,Expande tu pensamiento,数字个数应用,Solicitud de número,277,0.65704,188,89,0.638298,0.696629,0.058331
+503,加乘原理,Principio de suma,拓展思维,Expande tu pensamiento,加乘原理,Principio de suma,276,0.847826,13,263,1.0,0.840304,-0.159696
+110,和与积的奇偶性,Paridad de suma y producto,课内知识点,Puntos de conocimiento en clase,和与积的奇偶性,Paridad de suma y producto,274,0.846715,204,70,0.867647,0.785714,-0.081933
+492,平行四边形面积公式逆用,Fórmula inversa para el área de un paralelogramo,知识点,Puntos de conocimiento,平行四边形面积公式逆用,Fórmula inversa para el área de un paralelogramo,274,0.828467,274,0,0.828467,,
+583,口算乘法：整百数乘一位数,Multiplicación oral: multiplicar centenas enteras por un dígito,知识点,Puntos de conocimiento,口算乘法：整百数乘一位数,Multiplicación oral: multiplicar centenas enteras por un dígito,266,0.947368,0,266,,0.947368,
+585,树与间隔的数量关系,Número de árboles e intervalos.,课内题型,Tipos de preguntas en clase,一端种树问题,Problema de plantar árboles en un extremo.,264,0.765152,264,0,0.765152,,
+89,利用面积求周长,encontrar perímetro usando área,拓展思维,Expande tu pensamiento,平行四边形的面积公式,Fórmula del área del paralelogramo,264,0.674242,0,264,,0.674242,
+436,钱的计算,calculo de dinero,拓展思维,Expande tu pensamiento,钱的计算,calculo de dinero,263,0.878327,263,0,0.878327,,
+19,连线法,método de conexión,拓展思维,Expande tu pensamiento,连线法,método de conexión,258,0.802326,258,0,0.802326,,
+646,添线法计数,Agregar conteo de líneas,拓展思维,Expande tu pensamiento,添线法计数,Agregar conteo de líneas,249,0.787149,0,249,,0.787149,
+273,隐藏条件,Condiciones ocultas,拓展思维,Expande tu pensamiento,隐藏条件,Condiciones ocultas,246,0.886179,246,0,0.886179,,
+519,三角形内外角度,ángulos internos y externos del triángulo,拓展思维,Expande tu pensamiento,三角形内外角度,ángulos internos y externos del triángulo,244,0.815574,198,46,0.843434,0.695652,-0.147782
+4,物体数量组合,Combinación de cantidad de objetos,拓展思维,Expande tu pensamiento,物体数量组合,Combinación de cantidad de objetos,244,0.905738,244,0,0.905738,,
+464,图形平移旋转,Traducción y rotación gráfica.,拓展思维,Expande tu pensamiento,图形平移旋转,Traducción y rotación gráfica.,243,0.876543,243,0,0.876543,,
+500,图形折叠展开,Los gráficos se pliegan y expanden,拓展思维,Expande tu pensamiento,图形折叠展开,Los gráficos se pliegan y expanden,239,0.887029,180,59,0.855556,0.983051,0.127495
+53,两端种树问题,Problema de plantar árboles en ambos extremos.,课内题型,Tipos de preguntas en clase,两端种树问题,Problema de plantar árboles en ambos extremos.,237,0.725738,237,0,0.725738,,
+579,假设法判断真假,Método de hipótesis para determinar verdadero o falso.,拓展思维,Expande tu pensamiento,找矛盾,encontrar contradicciones,234,0.260684,0,234,,0.260684,
+314,付钱方法枚举,Enumeración de métodos de pago,拓展思维,Expande tu pensamiento,付钱方法枚举,Enumeración de métodos de pago,232,0.62069,231,1,0.619048,1.0,0.380952
+490,已知两量之间倍数关系和多份量，求一份量,"Dada la relación múltiple entre las dos cantidades y las cantidades múltiples, encuentre la cantidad de una porción",知识点,Puntos de conocimiento,已知两量之间倍数关系和多份量，求一份量,"Dada la relación múltiple entre las dos cantidades y las cantidades múltiples, encuentre la cantidad de una porción",226,0.858407,226,0,0.858407,,
+626,加减法应用顺口溜,Jingle de aplicación de suma y resta,拓展思维,Expande tu pensamiento,加减法应用顺口溜,Jingle de aplicación de suma y resta,223,0.618834,223,0,0.618834,,
+713,两次相遇,dos encuentros,拓展思维,Expande tu pensamiento,两次相遇,dos encuentros,221,0.665158,221,0,0.665158,,
+647,多位数中的提公因数,Factores comunes en números de varios dígitos,拓展思维,Expande tu pensamiento,多位数中的提公因数,Factores comunes en números de varios dígitos,220,0.822727,220,0,0.822727,,
+450,两量同时变倍,Se multiplican dos cantidades al mismo tiempo,拓展思维,Expande tu pensamiento,两量同时变倍,Se multiplican dos cantidades al mismo tiempo,217,0.875576,212,5,0.877358,0.8,-0.077358
+312,给几个数字通过枚举求出组成几位数的个数,"Dados varios números, encuentre la cantidad de dígitos que los componen mediante enumeración.",课内题型,Tipos de preguntas en clase,给几个数字通过枚举求出组成几位数的个数,"Dados varios números, encuentre la cantidad de dígitos que los componen mediante enumeración.",215,0.734884,193,22,0.787565,0.272727,-0.514837
+580,数字与页码的对应问题,Correspondencia entre números y números de página.,拓展思维,Expande tu pensamiento,数字与页码的对应问题,Correspondencia entre números y números de página.,215,0.818605,215,0,0.818605,,
+516,旋转割补求面积,Encuentre el área usando corte rotacional y complemento,课内题型,Tipos de preguntas en clase,旋转割补求面积,Encuentre el área usando corte rotacional y complemento,211,0.895735,211,0,0.895735,,
+399,直线、射线、线段分类,"Clasificación de rectas, rayos y segmentos de recta.",课内题型,Tipos de preguntas en clase,直线、射线、线段分类,"Clasificación de rectas, rayos y segmentos de recta.",210,0.171429,210,0,0.171429,,
+397,整数拆补构造,Construcción de complemento entero,拓展思维,Expande tu pensamiento,整数拆补构造,Construcción de complemento entero,209,0.866029,209,0,0.866029,,
+545,格点构造数图形,gráficos numéricos de estructura de cuadrícula,拓展思维,Expande tu pensamiento,格点构造数图形,gráficos numéricos de estructura de cuadrícula,206,0.834951,206,0,0.834951,,
+298,以盈亏问题形式运用方程解应用题,Usar ecuaciones para resolver problemas planteados en forma de problemas de pérdidas y ganancias.,知识点,Puntos de conocimiento,以盈亏问题形式运用方程解应用题,Usar ecuaciones para resolver problemas planteados en forma de problemas de pérdidas y ganancias.,202,0.564356,202,0,0.564356,,
+443,线分面递推,recursividad de faceta de línea,拓展思维,Expande tu pensamiento,线分面递推,recursividad de faceta de línea,201,0.850746,148,53,0.817568,0.943396,0.125829
+510,暗倍型和倍问题,Problema de tipo oscuro y tiempos.,拓展思维,Expande tu pensamiento,暗倍型和倍问题,Problema de tipo oscuro y tiempos.,199,0.78392,199,0,0.78392,,
+681,程序流程型,Tipo de flujo del programa,拓展思维,Expande tu pensamiento,程序流程型,Tipo de flujo del programa,199,0.874372,3,196,1.0,0.872449,-0.127551
+696,乘方的应用,Aplicaciones de poderes,拓展思维,Expande tu pensamiento,乘方的应用,Aplicaciones de poderes,198,0.893939,198,0,0.893939,,
+286,整数拆数法构造分配律,Método de división de enteros para construir la ley distributiva,拓展思维,Expande tu pensamiento,整数拆数法构造分配律,Método de división de enteros para construir la ley distributiva,195,0.85641,57,138,0.894737,0.84058,-0.054157
+558,平行四边形概念与分类,Concepto y clasificación de paralelogramo,能力,capacidad,图形认知,cognición gráfica,188,0.93617,188,0,0.93617,,
+446,数形结合找规律,Encuentra reglas combinando números y formas.,拓展思维,Expande tu pensamiento,数形结合找规律,Encuentra reglas combinando números y formas.,184,0.657609,184,0,0.657609,,
+316,异分母分数加减法,Sumar y restar fracciones con diferentes denominadores,拓展思维,Expande tu pensamiento,分数加减,Sumar y restar fracciones,179,0.497207,0,179,,0.497207,
+512,积幻方,cuadrado mágico acumulado,拓展思维,Expande tu pensamiento,积幻方,cuadrado mágico acumulado,179,0.960894,179,0,0.960894,,
+655,一笔画,un golpe,知识点,Puntos de conocimiento,一笔画,un golpe,177,0.440678,177,0,0.440678,,
+522,和差问题,problema de suma y diferencia,知识点,Puntos de conocimiento,和差问题,problema de suma y diferencia,175,0.782857,175,0,0.782857,,
+587,初步认识平面图形,Comprensión inicial de los gráficos planos.,知识点,Puntos de conocimiento,初步认识平面图形,Comprensión inicial de los gráficos planos.,175,0.971429,175,0,0.971429,,
+419,反解未知数型,Solución inversa de tipo de número desconocido,拓展思维,Expande tu pensamiento,反解未知数型,Solución inversa de tipo de número desconocido,174,0.844828,174,0,0.844828,,
+21,排除矛盾法,eliminación de contradicciones,知识点,Puntos de conocimiento,排除矛盾法,eliminación de contradicciones,174,0.908046,174,0,0.908046,,
+607,平方厘米、平方分米和平方米的单位换算,"Conversión de unidades de centímetros cuadrados, decímetros cuadrados y metros cuadrados.",拓展思维,Expande tu pensamiento,面积单位换算,Conversión de unidades de área,173,0.393064,0,173,,0.393064,
+613,巧填括号型,Tipo de soporte inteligente,拓展思维,Expande tu pensamiento,巧填括号型,Tipo de soporte inteligente,166,0.915663,166,0,0.915663,,
+529,整数加减巧算之凑整法,Método de redondeo para suma y resta de números enteros,拓展思维,Expande tu pensamiento,添去括号,Agregar y quitar corchetes,166,0.909639,120,46,0.933333,0.847826,-0.085507
+494,分类讨论思想,Clasificar ideas de discusión,思想,Pensamiento,分类讨论思想,Clasificar ideas de discusión,166,0.722892,166,0,0.722892,,
+656,标准四宫,Cuarta casa estándar,拓展思维,Expande tu pensamiento,标准四宫,Cuarta casa estándar,163,0.877301,163,0,0.877301,,
+629,用去尾法根据实际情况的运用,Utilice el método de eliminación de la cola según la situación real.,课内题型,Tipos de preguntas en clase,单归一问题,Problema de normalización única,159,0.849057,159,0,0.849057,,
+521,与倍数相关,Relacionado con múltiplos,拓展思维,Expande tu pensamiento,与倍数相关,Relacionado con múltiplos,158,0.778481,158,0,0.778481,,
+608,“正”字法记录数据,"Datos de registro de caracteres ""normales""",知识点,Puntos de conocimiento,“正”字法记录数据,"Datos de registro de caracteres ""normales""",157,0.993631,157,0,0.993631,,
+618,字典排序法,Clasificación de diccionario,知识点,Puntos de conocimiento,字典排序法,Clasificación de diccionario,155,0.8,155,0,0.8,,
+331,选线计算型,Tipo de cálculo mediante selección de líneas,拓展思维,Expande tu pensamiento,选线计算型,Tipo de cálculo de selección de línea,154,0.727273,154,0,0.727273,,
+634,不约分分数的比较,Comparación de fracciones irreducibles.,拓展思维,Expande tu pensamiento,不约分分数的比较,Comparación de fracciones irreducibles.,147,0.666667,147,0,0.666667,,
+45,间隔问题,problema de espaciado,知识点,Puntos de conocimiento,间隔问题,problema de espaciado,146,0.952055,146,0,0.952055,,
+426,构造型抽屉原理,Principio del cajón estructural.,拓展思维,Expande tu pensamiento,构造型抽屉原理,Principio del cajón estructural.,145,0.889655,145,0,0.889655,,
+528,1000以内数的组成和读写,"Composición, lectura y escritura de números hasta 1000.",知识点,Puntos de conocimiento,1000以内数的组成和读写,"Composición, lectura y escritura de números hasta 1000.",143,0.762238,143,0,0.762238,,
+439,整数等比数列,Secuencia geométrica entera,拓展思维,Expande tu pensamiento,等差数列求通项,Encontrar el término general de una secuencia aritmética,141,0.787234,0,141,,0.787234,
+438,平方数列,secuencia cuadrada,拓展思维,Expande tu pensamiento,等差数列求通项,Encontrar el término general de una secuencia aritmética,141,0.787234,0,141,,0.787234,
+136,相遇问题求路程和,Encuentra la suma de distancias en el problema de encuentro.,课内题型,Tipos de preguntas en clase,相遇问题求路程和,Encuentra la suma de distancias en el problema de encuentro.,139,0.719424,69,70,0.826087,0.614286,-0.211801
+640,笔算除法：三位数除以两位数,División aritmética con lápiz: dividir números de tres dígitos por números de dos dígitos,知识点,Puntos de conocimiento,笔算除法：三位数除以两位数,División aritmética con lápiz: dividir números de tres dígitos por números de dos dígitos,139,0.906475,139,0,0.906475,,
+614,余数特征,Características del resto,拓展思维,Expande tu pensamiento,余数特征,Características del resto,138,0.76087,138,0,0.76087,,
+517,小数加法运算,suma decimal,拓展思维,Expande tu pensamiento,小数加法运算,suma decimal,138,0.934783,138,0,0.934783,,
+506,握手碰杯问题,Problema de estrechar la mano y tintinear vasos,拓展思维,Expande tu pensamiento,握手碰杯问题,Problema de estrechar la mano y tintinear vasos,138,0.92029,81,57,0.950617,0.877193,-0.073424
+606,等式的性质,Propiedades de las ecuaciones,课内知识点,Puntos de conocimiento en clase,等式的性质,Propiedades de las ecuaciones,137,0.773723,137,0,0.773723,,
+511,求再过几日是周几问题,Por favor dime qué día de la semana será en los próximos días.,拓展思维,Expande tu pensamiento,求再过几日是周几问题,Por favor dime qué día de la semana será en los próximos días.,136,0.801471,136,0,0.801471,,
+493,带余除法的估算,Estimación con división del resto,拓展思维,Expande tu pensamiento,除法中四量关系,Relación entre cuatro cantidades en división,135,0.844444,0,135,,0.844444,
+348,代值运算,Operaciones algebraicas,拓展思维,Expande tu pensamiento,代值运算,Operaciones algebraicas,132,0.795455,129,3,0.806202,0.333333,-0.472868
+654,三角形面积公式应用,Aplicación de la fórmula del área del triángulo.,知识点,Puntos de conocimiento,三角形面积公式应用,Aplicación de la fórmula del área del triángulo.,131,0.824427,82,49,0.780488,0.897959,0.117471
+565,封闭植树类型问题(段数小于等于10),Problema de tipo plantación de árboles cerrados (el número de segmentos es menor o igual a 10),课内题型,Tipos de preguntas en clase,封闭路线植树问题,Problemas con la plantación de árboles en rutas cerradas,128,0.898438,128,0,0.898438,,
+319,整数利用积/商不变性质,Uso de la propiedad de invariancia del producto o del cociente en enteros,拓展思维,Expande tu pensamiento,整数利用积/商不变性质,Los números enteros aprovechan la propiedad de invariancia del producto/cociente,127,0.826772,127,0,0.826772,,
+698,直线型行程问题,Problema de viaje en línea recta,拓展思维,Expande tu pensamiento,直线型行程问题,Problema de viaje en línea recta,127,0.874016,0,127,,0.874016,
+695,数列操作周期问题,Problema del ciclo de operación de secuencia.,拓展思维,Expande tu pensamiento,数列操作周期问题,Problemas de periodicidad en operaciones con sucesiones,126,0.809524,126,0,0.809524,,
+535,用假设法解决基础鸡兔同笼,Utilice el método de hipótesis para resolver problemas básicos de pollo y conejo en la misma jaula.,知识点,Puntos de conocimiento,用假设法解决基础鸡兔同笼,Utilice el método de hipótesis para resolver problemas básicos de pollo y conejo en la misma jaula.,126,0.825397,126,0,0.825397,,
+27,神推理,razonamiento divino,拓展思维,Expande tu pensamiento,神推理,razonamiento divino,124,0.758065,111,13,0.738739,0.923077,0.184338
+354,乘法拆数（应用）,Multiplicación y división de números (aplicación),拓展思维,Expande tu pensamiento,乘法拆数（应用）,Multiplicación y división de números (aplicación),123,0.406504,123,0,0.406504,,
+574,用字母表示运算定律和计算公式,Utilice letras para expresar leyes de operación y fórmulas de cálculo.,知识点,Puntos de conocimiento,用字母表示运算定律和计算公式,Utilice letras para expresar leyes de operación y fórmulas de cálculo.,121,0.942149,121,0,0.942149,,
+345,转化代换,sustitución de transformación,课内题型,Tipos de preguntas en clase,转化代换,sustitución de transformación,121,0.512397,0,121,,0.512397,
+584,整数特殊数的应用,Aplicaciones de números enteros y números especiales.,拓展思维,Expande tu pensamiento,整数特殊数的应用,Aplicaciones de números enteros y números especiales.,120,0.691667,120,0,0.691667,,
+515,弦图求面积,Encuentra el área de un diagrama de cuerdas,拓展思维,Expande tu pensamiento,弦图求面积,Encuentra el área de un diagrama de cuerdas,120,0.75,120,0,0.75,,
+576,枚举法,Método de enumeración,拓展思维,Expande tu pensamiento,加法拆数（指定个数）,Sumar y dividir números (número especificado),115,0.8,115,0,0.8,,
+619,简单的周期计算,Cálculo de período simple,课内知识点,Puntos de conocimiento en clase,简单的周期计算,Cálculo de período simple,114,0.95614,32,82,0.96875,0.95122,-0.01753
+418,数字操作,operaciones digitales,拓展思维,Expande tu pensamiento,数字操作,operaciones digitales,114,0.789474,114,0,0.789474,,
+353,乘法拆数,Dividir números por multiplicación,拓展思维,Expande tu pensamiento,乘法拆数,Dividir números por multiplicación,114,0.324561,114,0,0.324561,,
+514,复式折线统计图,Gráfico de líneas compuestas,知识点,Puntos de conocimiento,复式折线统计图,Gráfico de líneas compuestas,114,0.631579,114,0,0.631579,,
+595,部分占整体的几分之几,¿Qué fracción del todo es la parte?,知识点,Puntos de conocimiento,部分占整体的几分之几,¿Qué fracción del todo es la parte?,113,0.876106,100,13,0.86,1.0,0.14
+660,解方程：ax＋b＝c这种类型,Resolver ecuaciones: ax + b = c este tipo,知识点,Puntos de conocimiento,解方程：ax＋b＝c这种类型,Resolver ecuaciones: ax + b = c este tipo,111,0.900901,111,0,0.900901,,
+524,用字母表示数量关系ax,Usar letras para expresar relaciones cuantitativas.,知识点,Puntos de conocimiento,用字母表示数量关系ax,Usar letras para expresar relaciones cuantitativas.,111,0.801802,75,36,0.746667,0.916667,0.17
+457,假设法解鸡兔同笼,Resolver el problema de gallinas y conejos en la misma jaula mediante el método de suposición,拓展思维,Expande tu pensamiento,假设法解鸡兔同笼,Método hipotético para resolver el problema de gallina y conejo en la misma jaula,110,0.890909,41,69,0.804878,0.942029,0.137151
+333,计算平均数,Calcular promedio,课内知识点,Puntos de conocimiento en clase,计算平均数,Calcular promedio,109,0.229358,109,0,0.229358,,
+623,逆向思想,pensamiento inverso,思想,Pensamiento,逆向思想,pensamiento inverso,109,0.706422,109,0,0.706422,,
+598,网格型,tipo de cuadrícula,拓展思维,Expande tu pensamiento,网格型,tipo de cuadrícula,109,0.834862,109,0,0.834862,,
+507,整数除法性质,Propiedades de la división de enteros,知识点,Puntos de conocimiento,整数除法性质,Propiedades de la división de enteros,108,0.87037,108,0,0.87037,,
+627,多边形的内角和,La suma de los ángulos interiores de un polígono.,课内知识点,Puntos de conocimiento en clase,多边形的内角和,La suma de los ángulos interiores de un polígono.,108,0.018519,108,0,0.018519,,
+509,正方形的面积公式逆用,Fórmula inversa para el área de un cuadrado.,知识点,Puntos de conocimiento,正方形的面积公式逆用,Fórmula inversa para el área de un cuadrado.,106,0.811321,106,0,0.811321,,
+689,点确定线递推,recursión de línea de determinación de puntos,拓展思维,Expande tu pensamiento,点确定线递推,recursión de línea de determinación de puntos,105,0.666667,105,0,0.666667,,
+605,对称类游戏,juegos de simetria,拓展思维,Expande tu pensamiento,对称类游戏,juegos de simetria,105,0.704762,105,0,0.704762,,
+578,图形平移,panorámica de gráficos,课内题型,Tipos de preguntas en clase,图形平移,panorámica de gráficos,105,0.485714,105,0,0.485714,,
+648,多位数的运算和数字和相关,Operaciones de varios dígitos y números y relacionados.,拓展思维,Expande tu pensamiento,多位数的运算和数字和相关,Operaciones de varios dígitos y números y relacionados.,104,0.894231,104,0,0.894231,,
+75,多个对象条形图,Gráfico de barras de múltiples objetos,拓展思维,Expande tu pensamiento,多个对象条形图,Gráfico de barras de múltiples objetos,103,0.970874,103,0,0.970874,,
+452,图形等分,Graficar partes iguales,拓展思维,Expande tu pensamiento,图形等分,Graficar partes iguales,102,0.872549,81,21,0.839506,1.0,0.160494
+541,小数拆补凑整,Redondeo decimal,拓展思维,Expande tu pensamiento,小数拆补凑整,Redondeo decimal,102,0.813725,102,0,0.813725,,
+653,面积公式的综合应用,Aplicación integral de la fórmula del área.,拓展思维,Expande tu pensamiento,面积公式的综合应用,Aplicación integral de la fórmula del área.,101,0.623762,101,0,0.623762,,
+495,不等变相等（有图）,Lo desigual se vuelve igual (con imagen),拓展思维,Expande tu pensamiento,不等变相等（有图）,Lo desigual se vuelve igual (con imagen),101,0.524752,101,0,0.524752,,
+543,数角,unos centavos,知识点,Puntos de conocimiento,数角,unos centavos,100,0.94,100,0,0.94,,
+604,一端植树类型问题(段数小于等于10),Problema de tipo de plantación de árboles en un extremo (el número de segmentos es menor o igual a 10),拓展思维,Expande tu pensamiento,一端植树类型问题(段数小于等于10),Problema de tipo de plantación de árboles en un extremo (el número de segmentos es menor o igual a 10),100,0.2,100,0,0.2,,
+594,异分母分数加法,Sumar fracciones con diferentes denominadores,拓展思维,Expande tu pensamiento,分数加减,Sumar y restar fracciones,99,0.828283,14,85,0.928571,0.811765,-0.116807
+281,任意四边形的一半模型,Medio modelo de cualquier cuadrilátero.,拓展思维,Expande tu pensamiento,任意四边形的一半模型,Medio modelo de cualquier cuadrilátero.,98,0.857143,98,0,0.857143,,
+571,多笔画的判断,Juicio de múltiples golpes.,拓展思维,Expande tu pensamiento,多笔画的判断,Juicio de múltiples golpes.,94,0.893617,94,0,0.893617,,
+437,量率对应求单位1,La tasa de medición corresponde a la unidad 1.,拓展思维,Expande tu pensamiento,量率对应求单位1,La tasa de medición corresponde a la unidad 1.,93,0.827957,93,0,0.827957,,
+709,表内乘法计算,Cálculo de multiplicación en tabla.,拓展思维,Expande tu pensamiento,表内乘法计算,Cálculo de multiplicación en tabla.,91,0.989011,91,0,0.989011,,
+680,转化为菜园，围栏之类的周长问题,"Traducido a cuestiones perimetrales para huertos, vallados, etc.",课内题型,Tipos de preguntas en clase,转化为菜园，围栏之类的周长问题,"Traducido a cuestiones perimetrales para huertos, vallados, etc.",91,0.934066,91,0,0.934066,,
+577,多位数除以多位数,Dividir varios dígitos entre varios dígitos,课内知识点,Puntos de conocimiento en clase,多位数除以多位数,Dividir varios dígitos entre varios dígitos,89,0.921348,89,0,0.921348,,
+567,二量和差问题,Problema de suma y diferencia de dos cantidades.,拓展思维,Expande tu pensamiento,二量和差问题,Problema de suma y diferencia de dos cantidades.,89,0.842697,89,0,0.842697,,
+537,单位换算,Conversión de unidades,拓展思维,Expande tu pensamiento,小数比较大小,Tamaño de comparación decimal,88,0.920455,88,0,0.920455,,
+440,斐波那契数列递推,Recursión de la secuencia de Fibonacci,拓展思维,Expande tu pensamiento,斐波那契数列递推,Recursión de la secuencia de Fibonacci,88,0.818182,88,0,0.818182,,
+588,正方形边角特点,Características de las esquinas cuadradas.,课内知识点,Puntos de conocimiento en clase,正方形边角特点,Características de las esquinas cuadradas.,87,0.977011,87,0,0.977011,,
+569,整数除法,División entera,拓展思维,Expande tu pensamiento,余数问题带余除法,Problema de división con resto,87,0.793103,0,87,,0.793103,
+593,最简分数,fracción más simple,拓展思维,Expande tu pensamiento,分数加减,Sumar y restar fracciones,85,0.811765,0,85,,0.811765,
+700,差系整除特征,Características de divisibilidad del sistema diferencial.,拓展思维,Expande tu pensamiento,差系整除特征,Características de divisibilidad del sistema diferencial.,85,0.788235,85,0,0.788235,,
+589,规则图形拼规则图形,Los gráficos regulares deletrean gráficos regulares,拓展思维,Expande tu pensamiento,规则图形拼规则图形,Los gráficos regulares deletrean gráficos regulares,85,0.858824,85,0,0.858824,,
+547,年龄差不变,La diferencia de edad se mantiene sin cambios.,知识点,Puntos de conocimiento,年龄差不变,La diferencia de edad se mantiene sin cambios.,81,0.876543,81,0,0.876543,,
+636,鸡兔同笼问题,Problema de gallina y conejo en la misma jaula,拓展思维,Expande tu pensamiento,求只数,solo pide el numero,80,0.9625,0,80,,0.9625,
+534,求只数,Hallar la cantidad de animales,拓展思维,Expande tu pensamiento,求只数,solo pide el numero,80,0.925,44,36,0.931818,0.916667,-0.015152
+49,两端植树问题,Problema de plantar árboles en ambos extremos.,拓展思维,Expande tu pensamiento,乘法应用（顺口溜）,Aplicación de multiplicación (Jingle),79,0.860759,79,0,0.860759,,
+432,平均分,puntuación promedio,知识点,Puntos de conocimiento,平均分,puntuación promedio,79,0.594937,50,29,0.58,0.62069,0.04069
+50,乘法应用（顺口溜）,Aplicación de multiplicación (Jingle),拓展思维,Expande tu pensamiento,乘法应用（顺口溜）,Aplicación de multiplicación (Jingle),79,0.860759,0,79,,0.860759,
+520,角,bocina,知识点,Puntos de conocimiento,认识线段,Reconocer segmentos de línea,79,0.949367,79,0,0.949367,,
+704,小数基础,Conceptos básicos de decimales,拓展思维,Expande tu pensamiento,小数的认识,Comprensión de los decimales.,78,0.910256,0,78,,0.910256,
+523,等差数列截断求和,Suma truncada de secuencias aritméticas,拓展思维,Expande tu pensamiento,等差数列截断求和,Suma truncada de secuencias aritméticas,78,0.833333,40,38,0.825,0.842105,0.017105
+564,笔算乘法：三位数乘两位数,Multiplicación escrita: tres dígitos multiplicados por dos dígitos,知识点,Puntos de conocimiento,笔算乘法：三位数乘两位数,Multiplicación escrita: tres dígitos multiplicados por dos dígitos,77,0.532468,40,37,0.75,0.297297,-0.452703
+628,平移法求周长,Encuentra el perímetro usando el método de traducción.,拓展思维,Expande tu pensamiento,平移法求周长,Encuentra el perímetro usando el método de traducción.,77,0.493506,77,0,0.493506,,
+610,数线段条数,Cuente el número de segmentos de línea.,知识点,Puntos de conocimiento,数线段条数,Cuente el número de segmentos de línea.,76,0.907895,76,0,0.907895,,
+429,数与形数形结合思想,La idea de combinar números y formas.,课内知识点,Puntos de conocimiento en clase,数与形数形结合思想,Pensamiento de combinación entre números y figuras,76,0.592105,30,46,0.8,0.456522,-0.343478
+548,乘方的幂运算,exponenciación,拓展思维,Expande tu pensamiento,乘方的幂运算,exponenciación,76,0.789474,76,0,0.789474,,
+566,不等变不等（给完还少）,No igual a igual (menos aún después de dar),拓展思维,Expande tu pensamiento,不等变不等（给完还少）,No igual a igual (menos aún después de dar),76,0.960526,76,0,0.960526,,
+702,奇数与偶数的判断,Juicio de números pares e impares.,知识点,Puntos de conocimiento,奇数与偶数的判断,Juicio de números pares e impares.,75,0.4,75,0,0.4,,
+611,整数乘法分配律,ley distributiva de la multiplicación de números enteros,拓展思维,Expande tu pensamiento,整数直接运用分配律,Los números enteros aplican directamente la ley distributiva.,75,0.906667,75,0,0.906667,,
+691,六边形阵基本问题,Preguntas básicas sobre matrices hexagonales.,知识点,Puntos de conocimiento,六边形阵基本问题,Preguntas básicas sobre matrices hexagonales.,74,0.756757,74,0,0.756757,,
+682,图形认知角,Rincón de cognición gráfica,拓展思维,Expande tu pensamiento,图形认知角,Rincón de cognición gráfica,74,0.77027,0,74,,0.77027,
+690,矩形队伍求总数,Encuentra el número total de equipos rectangulares.,拓展思维,Expande tu pensamiento,矩形队伍求总数,Encuentra el número total de equipos rectangulares.,72,0.902778,72,0,0.902778,,
+540,小数加减,Suma y resta de decimales,知识点,Puntos de conocimiento,小数加减,Suma y resta de decimales,71,0.788732,71,0,0.788732,,
+637,两次假设,Dos veces hipótesis,拓展思维,Expande tu pensamiento,两次假设,Dos veces hipótesis,70,0.942857,46,24,0.956522,0.916667,-0.039855
+692,韦恩图,diagrama de venn,课内知识点,Puntos de conocimiento en clase,2的倍数特征,Características de múltiplos de 2,70,0.8,3,67,0.333333,0.820896,0.487562
+549,乘方的乘法运算,Operación de multiplicación de exponenciación.,拓展思维,Expande tu pensamiento,乘方的乘法运算,Operación de multiplicación de exponenciación.,69,0.956522,69,0,0.956522,,
+633,两端植树两侧都种类型问题,Plantar árboles en ambos extremos y tipos de plantación en ambos lados.,拓展思维,Expande tu pensamiento,两端植树两侧都种类型问题,Plantar árboles en ambos extremos y tipos de plantación en ambos lados.,69,0.637681,69,0,0.637681,,
+568,余数问题带余除法,Problema de división con resto,拓展思维,Expande tu pensamiento,余数问题带余除法,Problema de división con resto,68,0.970588,60,8,0.966667,1.0,0.033333
+786,路程速度时间,distancia velocidad tiempo,拓展思维,Expande tu pensamiento,路程速度时间,distancia velocidad tiempo,67,0.597015,67,0,0.597015,,
+693,以文字题形式运用方程解应用题,Usar ecuaciones para resolver problemas verbales en forma de problemas verbales.,课内题型,Tipos de preguntas en clase,以文字题形式运用方程解应用题,Usar ecuaciones para resolver problemas verbales en forma de problemas verbales.,66,0.69697,66,0,0.69697,,
+742,小数四则运算,Cuatro operaciones decimales,拓展思维,Expande tu pensamiento,小数,decimal,66,0.469697,0,66,,0.469697,
+741,小数,decimal,拓展思维,Expande tu pensamiento,小数,decimal,66,0.469697,66,0,0.469697,,
+603,表内除法计算,Cálculo de división en tabla,拓展思维,Expande tu pensamiento,表内除法计算,Cálculo de división en tabla,65,1.0,65,0,1.0,,
+421,多个人做一件事的时间优化,Optimizar el tiempo para que varias personas hagan una cosa,拓展思维,Expande tu pensamiento,时间总和问题,problema de suma de tiempo,65,0.815385,0,65,,0.815385,
+665,乘法的实际应用,Aplicaciones prácticas de la multiplicación.,课内知识点,Puntos de conocimiento en clase,乘法的实际应用,Aplicaciones prácticas de la multiplicación.,64,0.796875,62,2,0.790323,1.0,0.209677
+703,重叠直线型,lineal superpuesto,拓展思维,Expande tu pensamiento,重叠直线型,lineal superpuesto,64,0.875,64,0,0.875,,
+554,整数换元法,Método de sustitución de enteros,拓展思维,Expande tu pensamiento,整数换元法,Método de sustitución de enteros,63,0.920635,63,0,0.920635,,
+70,直接运用公式求单价,Utilice la fórmula directamente para encontrar el precio unitario.,课内题型,Tipos de preguntas en clase,直接运用公式求单价,Utilice la fórmula directamente para encontrar el precio unitario.,63,0.984127,63,0,0.984127,,
+415,年龄问题之变倍型,Tipo variable de problema de edad.,拓展思维,Expande tu pensamiento,年龄问题之变倍型,Tipo variable de problema de edad.,61,0.770492,37,24,0.918919,0.541667,-0.377252
+721,重叠集合型,Tipo de conjunto superpuesto,拓展思维,Expande tu pensamiento,重叠集合型,Tipo de conjunto superpuesto,61,0.770492,61,0,0.770492,,
+687,暗和明差,Oscuridad y claridad,拓展思维,Expande tu pensamiento,暗和明差,Oscuridad y claridad,60,0.533333,60,0,0.533333,,
+539,分数化为小数,Convertir fracciones a decimales,知识点,Puntos de conocimiento,小数化为分数,Convertir decimales a fracciones,59,0.898305,3,56,0.666667,0.910714,0.244048
+538,小数化为分数,Convertir decimales a fracciones,知识点,Puntos de conocimiento,小数化为分数,Convertir decimales a fracciones,59,0.915254,59,0,0.915254,,
+679,进水与排水问题,Problemas de ingesta y drenaje de agua.,拓展思维,Expande tu pensamiento,进水与排水问题,Problemas de ingesta y drenaje de agua.,58,0.948276,58,0,0.948276,,
+461,基础复合数字的整除特征,Características de divisibilidad de números compuestos básicos.,拓展思维,Expande tu pensamiento,基础复合数字的整除特征,Características de divisibilidad de números compuestos básicos.,57,0.947368,57,0,0.947368,,
+651,删线法计数,conteo tachado,拓展思维,Expande tu pensamiento,删线法计数,conteo tachado,57,0.719298,48,9,0.708333,0.777778,0.069444
+347,等量代换传递型,Tipo de transferencia de sustitución equivalente,课内题型,Tipos de preguntas en clase,转化代换,sustitución de transformación,57,0.473684,2,55,1.0,0.454545,-0.545455
+597,图形重复,repetición de gráficos,拓展思维,Expande tu pensamiento,图形重复,repetición de gráficos,56,0.946429,56,0,0.946429,,
+346,等量关系,relación equivalente,课内题型,Tipos de preguntas en clase,转化代换,sustitución de transformación,55,0.454545,55,0,0.454545,,
+638,特殊数字系列,Serie de números especiales,拓展思维,Expande tu pensamiento,特殊数字系列,Serie de números especiales,55,0.981818,6,49,0.833333,1.0,0.166667
+550,完全平方公式,fórmula del cuadrado perfecto,拓展思维,Expande tu pensamiento,完全平方公式,fórmula del cuadrado perfecto,54,0.796296,54,0,0.796296,,
+434,和不变,y sin cambios,知识点,Puntos de conocimiento,和不变,y sin cambios,54,0.888889,54,0,0.888889,,
+444,切披萨,cortar pizza,拓展思维,Expande tu pensamiento,切披萨,cortar pizza,53,0.943396,53,0,0.943396,,
+699,具体量工程问题,Cuestiones específicas de ingeniería cuantitativa.,拓展思维,Expande tu pensamiento,具体量工程问题,Cuestiones específicas de ingeniería cuantitativa.,53,0.792453,53,0,0.792453,,
+688,割补平移求多边形面积,Encuentra el área de un polígono usando traducción de corte y complemento,课内知识点,Puntos de conocimiento en clase,割补平移求多边形面积,Encuentra el área de un polígono usando traducción de corte y complemento,53,0.679245,53,0,0.679245,,
+652,长方形的一半模型,Medio modelo rectangular,拓展思维,Expande tu pensamiento,长方形的一半模型,Medio modelo rectangular,51,0.921569,51,0,0.921569,,
+575,多重数列,secuencia múltiple,拓展思维,Expande tu pensamiento,多重数列,secuencia múltiple,51,0.764706,51,0,0.764706,,
+459,差系整除特征的应用,Aplicación de las características de divisibilidad del sistema diferencial,拓展思维,Expande tu pensamiento,差系整除特征的应用,Aplicación de las características de divisibilidad del sistema diferencial,50,0.92,50,0,0.92,,
+449,基础变倍,Zoom básico,拓展思维,Expande tu pensamiento,基础变倍,Zoom básico,50,0.94,50,0,0.94,,
+460,尾数系中的最值,El valor máximo en el sistema mantisa.,拓展思维,Expande tu pensamiento,尾数系中的最值,El valor máximo en el sistema mantisa.,50,0.98,50,0,0.98,,
+734,笔算除法：两位数除以一位数,División aritmética: números de dos dígitos divididos por números de un dígito,拓展思维,Expande tu pensamiento,除法竖式,Forma vertical de división,49,0.857143,0,49,,0.857143,
+544,正三角形计数,Contar triángulos equiláteros,拓展思维,Expande tu pensamiento,正三角形计数,Contar triángulos equiláteros,49,0.816327,49,0,0.816327,,
+821,凑整,redondeo,知识点,Puntos de conocimiento,整数加减巧算之凑整法,Método de redondeo para suma y resta de números enteros,48,0.875,48,0,0.875,,
+630,多项式结合图形面积,área del gráfico combinado polinomial,拓展思维,Expande tu pensamiento,长方形和正方形面积公式,Fórmulas de área para rectángulos y cuadrados.,48,0.708333,0,48,,0.708333,
+553,平方差公式逆向应用,Aplicación inversa de la fórmula de diferencia cuadrada.,拓展思维,Expande tu pensamiento,平方差公式逆向应用,Aplicación inversa de la fórmula de diferencia cuadrada.,48,0.9375,48,0,0.9375,,
+527,正方形面积,área cuadrada,拓展思维,Expande tu pensamiento,正方形周长,perímetro del cuadrado,47,0.446809,47,0,0.446809,,
+609,已知长宽变化，求面积变化,"Dado el cambio en largo y ancho, encuentre el cambio en área",课内知识点,Puntos de conocimiento en clase,公式求长方形面积,Fórmula para encontrar el área de un rectángulo,47,0.680851,0,47,,0.680851,
+765,认识长度单位,Conoce la unidad de longitud.,课内知识点,Puntos de conocimiento en clase,认识长度单位,Conoce la unidad de longitud.,45,0.977778,45,0,0.977778,,
+532,以和差倍问题形式运用方程解应用题,Usar ecuaciones para resolver problemas escritos en forma de problemas de suma y diferencia por tiempos.,拓展思维,Expande tu pensamiento,多量和倍,Grandes cantidades y tiempos,45,0.955556,0,45,,0.955556,
+684,枚举思想,ideas de enumeración,思想,Pensamiento,枚举思想,ideas de enumeración,45,0.444444,0,45,,0.444444,
+827,小数加减巧算之分组法,Método de agrupación para suma y resta decimales,拓展思维,Expande tu pensamiento,小数加减巧算之分组法,Método de agrupación para suma y resta decimales,44,0.75,44,0,0.75,,
+773,末尾带0的乘法,Multiplicación con 0 al final,课内知识点,Puntos de conocimiento en clase,末尾带0的乘法,Multiplicación con 0 al final,44,0.795455,44,0,0.795455,,
+705,其他变形数独,Otros Sudoku deformados,拓展思维,Expande tu pensamiento,其他变形数独,Otros Sudoku deformados,43,0.976744,43,0,0.976744,,
+533,简单的周期规律,patrón periódico simple,知识点,Puntos de conocimiento,简单的周期规律,patrón periódico simple,43,0.906977,43,0,0.906977,,
+572,以年龄问题形式运用方程解应用题,Usar ecuaciones para resolver problemas planteados en forma de problemas de edad.,知识点,Puntos de conocimiento,以年龄问题形式运用方程解应用题,Usar ecuaciones para resolver problemas planteados en forma de problemas de edad.,42,0.904762,42,0,0.904762,,
+639,等差数列与估算,Secuencias aritméticas y estimación,知识点,Puntos de conocimiento,等差数列与估算,Secuencias aritméticas y estimación,41,0.902439,41,0,0.902439,,
+685,等高模型正用一次应用,El modelo de contorno se utiliza una vez.,拓展思维,Expande tu pensamiento,等高模型正用一次应用,El modelo de contorno se utiliza una vez.,41,0.317073,41,0,0.317073,,
+694,2-0  积分制,sistema de 2-0 puntos,拓展思维,Expande tu pensamiento,2-0  积分制,sistema de 2-0 puntos,40,0.975,40,0,0.975,,
+573,乘方的混合运算,Operaciones mixtas de poderes,拓展思维,Expande tu pensamiento,乘方的混合运算,Operaciones mixtas de poderes,39,0.974359,39,0,0.974359,,
+661,年龄问题基本关系,Relación básica entre cuestiones de edad.,拓展思维,Expande tu pensamiento,年龄问题基本关系,Relación básica entre cuestiones de edad.,38,0.789474,38,0,0.789474,,
+328,时间中的周期,ciclos en el tiempo,拓展思维,Expande tu pensamiento,时间中的周期,ciclos en el tiempo,37,0.486486,37,0,0.486486,,
+542,已知时间求角度,Encuentra el ángulo con el tiempo conocido.,拓展思维,Expande tu pensamiento,已知时间求角度,Encuentra el ángulo con el tiempo conocido.,37,0.891892,37,0,0.891892,,
+525,积的乘方,producto elevado a la potencia,拓展思维,Expande tu pensamiento,积的乘方,producto elevado a la potencia,37,0.810811,37,0,0.810811,,
+563,三位数乘两位数,Tres dígitos multiplicados por dos dígitos,知识点,Puntos de conocimiento,笔算乘法：三位数乘两位数,Multiplicación escrita: tres dígitos multiplicados por dos dígitos,36,0.277778,36,0,0.277778,,
+433,行程中的反比例,Proporción inversa en los viajes,拓展思维,Expande tu pensamiento,行程中的反比例,Proporción inversa en los viajes,34,0.941176,34,0,0.941176,,
+453,多人相遇问题,Problema de encuentro entre varias personas,拓展思维,Expande tu pensamiento,多人相遇问题,Problema de encuentro entre varias personas,34,0.764706,34,0,0.764706,,
+714,剪拼长正方形周长的变化,Cambios en el perímetro del rectángulo cortado y ensamblado.,知识点,Puntos de conocimiento,剪拼长正方形周长的变化,Cambios en el perímetro del rectángulo cortado y ensamblado.,34,0.882353,34,0,0.882353,,
+90,认识直角梯形,Entender el trapezoide en ángulo recto,知识点,Puntos de conocimiento,认识直角梯形,Entender el trapezoide en ángulo recto,34,0.470588,34,0,0.470588,,
+641,等式只填加减号,Simplemente completa la ecuación con signos más y menos.,拓展思维,Expande tu pensamiento,等式只填加减号,Simplemente completa la ecuación con signos más y menos.,34,0.941176,34,0,0.941176,,
+675,点线排布的实际应用,Aplicación práctica de la disposición de puntos y líneas.,拓展思维,Expande tu pensamiento,点线排布的实际应用,Aplicación práctica de la disposición de puntos y líneas.,33,0.727273,33,0,0.727273,,
+456,逻辑推理,razonamiento lógico,拓展思维,Expande tu pensamiento,逻辑推理,razonamiento lógico,33,0.969697,33,0,0.969697,,
+458,构造与论证,Construcción y argumento,拓展思维,Expande tu pensamiento,奇数与偶数的应用,Aplicaciones de números pares e impares,33,0.939394,33,0,0.939394,,
+620,认识面积单位,Comprender las unidades de área,课内知识点,Puntos de conocimiento en clase,认识面积单位,Comprender las unidades de área,33,0.484848,33,0,0.484848,,
+570,差不变,La diferencia permanece sin cambios,知识点,Puntos de conocimiento,差不变,La diferencia permanece sin cambios,33,0.939394,33,0,0.939394,,
+697,求第几个数是多少问题,¿Cuál es el número del primer número?,拓展思维,Expande tu pensamiento,求第几个数是多少问题,¿Cuál es el número del primer número?,33,0.969697,33,0,0.969697,,
+828,小数同尾相减,Restar decimales con las mismas colas,拓展思维,Expande tu pensamiento,小数同尾相减,Restar decimales con las mismas colas,32,0.5625,32,0,0.5625,,
+670,梯形面积,área trapezoidal,拓展思维,Expande tu pensamiento,四边形的认识,Comprensión de los cuadriláteros,32,0.875,32,0,0.875,,
+615,口算乘法：两位数乘两位数（不进位）,Multiplicación oral: multiplica números de dos dígitos por números de dos dígitos (sin acarreo),知识点,Puntos de conocimiento,口算乘法：两位数乘两位数（不进位）,Multiplicación oral: multiplica números de dos dígitos por números de dos dígitos (sin acarreo),32,0.8125,32,0,0.8125,,
+596,剪绳子,cortar la cuerda,拓展思维,Expande tu pensamiento,剪绳子,cortar la cuerda,32,0.75,32,0,0.75,,
+728,数字排列规律,Reglas de disposición numérica,课内知识点,Puntos de conocimiento en clase,数字排列规律,Reglas de disposición numérica,32,0.9375,32,0,0.9375,,
+783,实心方阵,matriz cuadrada sólida,拓展思维,Expande tu pensamiento,实心方阵,matriz cuadrada sólida,32,0.96875,32,0,0.96875,,
+601,20以内组算式,Fórmulas dentro de 20,知识点,Puntos de conocimiento,20以内组算式,Fórmulas dentro de 20,32,0.96875,32,0,0.96875,,
+772,解方程：a（x－b）＝c这种类型,Resolver ecuaciones: a(x-b)=c este tipo,能力,capacidad,运算求解,solución aritmética,31,0.806452,0,31,,0.806452,
+719,面积,área,课内知识点,Puntos de conocimiento en clase,面积,área,31,0.903226,31,0,0.903226,,
+712,错车,auto equivocado,知识点,Puntos de conocimiento,抄错数得出结果，求正确的,Se obtiene un resultado al copiar mal un número; hallar el resultado correcto,31,0.354839,0,31,,0.354839,
+780,方向,dirección,拓展思维,Expande tu pensamiento,双人简单行程问题,Itinerario sencillo para dos personas.,31,0.580645,31,0,0.580645,,
+668,通项归纳,induccion general,拓展思维,Expande tu pensamiento,通项归纳,induccion general,31,0.83871,18,13,0.722222,1.0,0.277778
+826,计数模块,módulo de conteo,知识点,Puntos de conocimiento,排列数,número de permutaciones,31,0.741935,0,31,,0.741935,
+631,一端植树问题,Problema de plantación de árboles en un extremo.,拓展思维,Expande tu pensamiento,一端植树问题,Problema de plantación de árboles en un extremo.,30,0.766667,30,0,0.766667,,
+600,简单的数独游戏,juego de sudoku sencillo,知识点,Puntos de conocimiento,简单的数独游戏,juego de sudoku sencillo,30,0.866667,30,0,0.866667,,
+632,两端不植树问题,El problema de no plantar árboles en ambos extremos,拓展思维,Expande tu pensamiento,两端不植树问题,El problema de no plantar árboles en ambos extremos,30,0.733333,30,0,0.733333,,

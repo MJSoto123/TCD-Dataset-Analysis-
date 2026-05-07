@@ -1,0 +1,17 @@
+{
+  "source_files": {
+    "interactions": "dashboard\\data\\view1\\interaction_level_kc_train_valid_sample.csv",
+    "questions_metadata": "XES3G5M\\metadata\\questions.json",
+    "kc_routes_map": "XES3G5M\\metadata\\kc_routes_map.json"
+  },
+  "outputs": {
+    "interaction_enriched": "dashboard\\data\\view2\\view2_interaction_enriched_sample.csv",
+    "kc_difficulty": "dashboard\\data\\view2\\view2_kc_difficulty.csv",
+    "route_summary": "dashboard\\data\\view2\\view2_route_summary.csv"
+  },
+  "summary": {
+    "rows": 1541951,
+    "route_groups": 8,
+    "kcs": 683
+  }
+}

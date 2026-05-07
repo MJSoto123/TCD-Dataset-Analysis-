@@ -1,0 +1,13 @@
+{
+  "source_file": "dashboard\\data\\view1\\interaction_level_kc_train_valid_sample.csv",
+  "outputs": {
+    "student_profiles": "dashboard\\data\\view3\\view3_student_profiles.csv",
+    "progress_bins": "dashboard\\data\\view3\\view3_progress_bins.csv",
+    "cohort_summary": "dashboard\\data\\view3\\view3_cohort_summary.csv"
+  },
+  "summary": {
+    "students": 4335,
+    "cohorts": 4,
+    "avg_repeat_gain": 0.007501
+  }
+}

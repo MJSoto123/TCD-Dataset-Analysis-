@@ -1,0 +1,5 @@
+transition_type,count,pct
+correct_to_correct,207393,0.782869157537918
+wrong_to_wrong,46294,0.17475105128456783
+wrong_to_correct,8759,0.03306356024974143
+correct_to_wrong,2468,0.009316230927772787

@@ -37,4 +37,4 @@ coverage/
 *.tsbuildinfo
 
 # Data
-data/
+/data/

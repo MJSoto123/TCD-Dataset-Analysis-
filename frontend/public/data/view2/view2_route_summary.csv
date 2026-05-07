@@ -1,0 +1,9 @@
+route_group,n_total,route_group_es,students,kcs,accuracy_total,n_first,n_repeat,accuracy_first,accuracy_repeat,delta_repeat_minus_first
+拓展思维,1183315,Expande tu pensamiento,4335,647,0.790936,1068484,114831,0.790593,0.794132,0.003539
+知识点,156658,Puntos de conocimiento,4335,282,0.812381,138033,18625,0.813921,0.800966,-0.012955
+课内题型,94246,Tipos de preguntas en clase,4335,110,0.791418,57765,36481,0.782065,0.806228,0.024163
+课内知识点,67095,Puntos de conocimiento en clase,4323,124,0.798241,44295,22800,0.797426,0.799825,0.002398
+能力,22439,capacidad,2773,33,0.882437,15091,7348,0.87529,0.897115,0.021825
+七大能力,17192,Siete habilidades,3068,17,0.822301,10357,6835,0.802839,0.851792,0.048954
+思想,770,Pensamiento,306,8,0.661039,308,462,0.668831,0.655844,-0.012987
+学习能力,236,capacidad de aprendizaje,73,7,0.622881,82,154,0.658537,0.603896,-0.05464

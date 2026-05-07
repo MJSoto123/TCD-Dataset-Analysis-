@@ -1,0 +1,16 @@
+{
+  "source_file": "data\\interim\\kc_level_train_valid_sequences__xes3g5m_sample_clean.csv",
+  "outputs": {
+    "interaction_level": "dashboard\\data\\view1\\interaction_level_kc_train_valid_sample.csv",
+    "transition_matrix": "dashboard\\data\\view1\\view1_transition_matrix.csv",
+    "repeat_accuracy": "dashboard\\data\\view1\\view1_repeat_accuracy.csv",
+    "repeat_delta_by_kc": "dashboard\\data\\view1\\view1_repeat_delta_by_kc.csv"
+  },
+  "summary": {
+    "rows": 1541951,
+    "students": 4335,
+    "questions": 7099,
+    "kcs": 837,
+    "repeat_rate": 0.134593
+  }
+}

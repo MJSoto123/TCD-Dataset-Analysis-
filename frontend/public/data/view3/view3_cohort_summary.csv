@@ -1,0 +1,5 @@
+cohort,n_students,avg_accuracy,avg_repeat_rate,avg_repeat_gain,avg_interactions
+high_accuracy_low_repeat,1583,0.905756,0.131404,0.011034,372.213519
+high_repeat_negative_gain,7,0.743582,0.210018,-0.044276,312.0
+high_repeat_positive_gain,9,0.801475,0.209223,0.091084,274.777778
+mixed_profile,2736,0.721165,0.132539,0.005314,346.520468
