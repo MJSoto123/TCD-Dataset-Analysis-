@@ -1,0 +1,32 @@
+{
+  "view": "view4",
+  "subview": "4A_student_profiles",
+  "title": "Reducción de dimensionalidad de perfiles de estudiantes",
+  "source_file": "dashboard/data/view3/view3_student_profiles.csv",
+  "output_file": "dashboard/data/view4/view4_student_embedding.csv",
+  "rows": 4335,
+  "features": [
+    "n_interactions",
+    "n_questions",
+    "n_kcs",
+    "accuracy_total",
+    "repeat_rate",
+    "first_accuracy",
+    "repeat_accuracy",
+    "repeat_gain",
+    "sequence_duration_days"
+  ],
+  "projection_method": "pca",
+  "projection_methods_available": [
+    "pca"
+  ],
+  "umap_available": false,
+  "pca_explained_variance_ratio": [
+    0.3802829618652359,
+    0.27758678587869823
+  ],
+  "notes": [
+    "Esta primera iteración usa PCA como baseline explicable.",
+    "UMAP queda pendiente para una futura versión cuando esté disponible en el entorno."
+  ]
+}

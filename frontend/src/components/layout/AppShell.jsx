@@ -1,4 +1,4 @@
-import { Database, FlaskConical, LayoutDashboard, LineChart, Search, Workflow } from "lucide-react";
+import { Database, FlaskConical, LayoutDashboard, LineChart, ScanSearch, Search, Workflow } from "lucide-react";
 import { NavLink, Outlet } from "react-router-dom";
 
 const navigation = [
@@ -7,6 +7,7 @@ const navigation = [
   { to: "/pipeline", label: "Pipeline", icon: Workflow },
   { to: "/wrangling", label: "Wrangling", icon: FlaskConical },
   { to: "/aed", label: "AED", icon: Search },
+  { to: "/reduccion", label: "Reducción", icon: ScanSearch },
   { to: "/visualizaciones", label: "Visualizaciones", icon: LineChart },
 ];
 

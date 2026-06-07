@@ -52,6 +52,28 @@ Produce:
 - `dashboard/data/view3/view3_cohort_summary.csv`
 - `dashboard/data/view3/manifest.json`
 
+### `build_view4_datasets.py` (pendiente)
+
+Preparará la cuarta capa de datos para la vista **Reducción de dimensionalidad**.
+
+La primera subvista propuesta es:
+
+- **4A · Perfiles de estudiantes**
+
+Base esperada:
+
+- `dashboard/data/view3/view3_student_profiles.csv`
+
+Salidas previstas:
+
+- `dashboard/data/view4/view4_student_embedding.csv`
+- `dashboard/data/view4/manifest.json`
+
+Métodos previstos:
+
+- PCA como baseline explicable
+- UMAP como proyección principal para visualización
+
 ### `build_view2_translations.py`
 
 Genera o completa un diccionario de traducciones al español para los labels visibles de la Vista 2:
@@ -71,6 +93,8 @@ Produce:
 .\.venv\Scripts\python.exe dashboard/scripts/build_view2_datasets.py
 .\.venv\Scripts\python.exe dashboard/scripts/build_view2_translations.py
 .\.venv\Scripts\python.exe dashboard/scripts/build_view3_datasets.py
+# futura iteración
+.\.venv\Scripts\python.exe dashboard/scripts/build_view4_datasets.py
 ```
 
 ## Organización objetivo
@@ -80,7 +104,8 @@ dashboard/scripts/
 ├── build_view1_datasets.py
 ├── build_view2_datasets.py
 ├── build_view2_translations.py
-└── build_view3_datasets.py
+├── build_view3_datasets.py
+└── build_view4_datasets.py
 ```
 
 ## Principio
